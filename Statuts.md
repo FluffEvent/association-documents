@@ -7,21 +7,17 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 
 ## ARTICLE 2 - BUT OBJET
 
-Cette association a pour objet de promouvoir la découverte et la passion de l’Anthropomorphisme au travers de l’art, de l’organisation et de la réalisation d’événements, qu’ils soient festifs, culturels, artistiques ou intellectuels, et que cela soit dans un cadre public ou privé.
+Cette association a pour objet de promouvoir la découverte et la passion de l’Anthropomorphisme au travers de l’art, de l’organisation et de la participation et réalisation d’événements, qu’ils soient festifs, culturels, artistiques et intellectuels, que cela soit dans un cadre public ou privé.
 
-La pratique de l'organisation et de la diffusion francophone d'événements, caritatifs où non, en relation avec la pratique des jeux vidéo fait également partie des objectifs de l’association.
+La pratique de l'organisation et de la diffusion francophone d'événements caritatifs en relation avec la pratique des jeux vidéo fait également partie des objectifs de l’association.
 
-L’association peut être amenée à collecter de quoi se financer via :
-- la tenue de stand
-- la vente de produits dérivés promouvant l’association
-- la réalisation de produits ou de prestations de service
-- etc…
+L’association peut exercer des activités à caractères économiques, telles que la tenue de stand, de la vente de produits dérivés, la réalisation de produits ou de prestations de service pour financer l’Association.
 
 
 ## ARTICLE 3 - SIÈGE SOCIAL 
 
 Le siège social est fixé au 230 rue Albert Reynier, 38140 Izeaux.  
-Il pourra être transféré par simple décision du Conseil d'Administration. Les statuts de l’association sont mis à jour en conséquence et l’Assemblée Générale est tenue informée de toute modification.
+Il pourra être transféré par simple décision du Conseil d'Administration ; l’Assemblée Générale en sera tenue informée et les statuts de l’association mis à jour.
 
 
 ## Article 4 - DUREE
@@ -33,34 +29,33 @@ La durée de l’association est illimitée.
 
 L'association se compose de :
 
-a\) Membres Fondateurs : les créateurs de l'association et les premiers membres  
-b\) Adhérents : membres ayant payé leur cotisation annuelle selon le Règlement Intérieur  
-c\) Adhérents d'Honneur : membres rendant ou ayant rendu des services signalés à l'association  
-d\) Adhérents temporaires : membres qui rejoignent l'association sur une durée limitée définie par le Règlement Intérieur de chaque événement.
+a\) Membres Fondateurs, les créateurs de l'association et premiers membres  
+b\) Adhérents ; ayant payé leur cotisation annuelle selon le Règlement Intérieur  
+c\) Adhérents d'Honneur ; qui ont rendu ou rendent des services signalés à l'association  
+d\) Adhérents temporaires ; qui rejoindront l'association sur une durée définie selon le Règlement Intérieur de chaque événement.
+
+Tous ses membres sont des personnes de plus de 18 ans (ou émancipés) ou dont les tuteurs légaux ont accordé leurs autorisations.
 
 
 ## ARTICLE 6 - ADMISSION 
 
-Le processus et les conditions d’admission sont définis dans le Règlement Intérieur de l’Association.
-
-Tous ses membres sont des personnes de plus de 18 ans (ou émancipés) ou dont les tuteurs légaux ont accordé leurs autorisations.
-
-Les demandes d’admissions sont étudiées par le Conseil d’Administration qui statue sur celles-ci, lors de chacune de ses réunions. Le Conseil d’Administration  se réserve le droit de décliner toute candidature qui semblerait incompatible avec les objectifs et les valeurs de l'Association ou pouvant causer des troubles à ses activités et son image. Cette décision de refus est discutée et votée selon les modalités définies dans le Règlement Intérieur de l’Association, et sa motivation pourra être explicitée.
-
-Les membres admis doivent prendre en compte et accepter, sans réserve, les présents statuts ainsi que le Règlement Intérieur de l'Association.
+Le processus d’admission est défini dans le Règlement Intérieur de l’Association. L'Association se réserve le droit de décliner toute candidature qui semblerait incompatible avec les objectifs et éthiques de l'Association ou pouvant troubler ses activités et son image. Ce refus par le veto d’un membre du Conseil d’Administration suivi par une discussion et un vote afin de justifier ce choix non discriminant.
+Les adhérents doivent prendre en compte et accepter, sans réserve, les présents statuts ainsi que le Règlement Intérieur de l'Association.
 
 
 ## ARTICLE 7 - MEMBRES – COTISATIONS
 
-Sont Adhérents ceux à jour de leur cotisation annuelle telle que définie dans le Règlement Intérieur de l’Association.
+Sont Adhérents ceux à jour de leur cotisation annuelle telle que définie dans du Règlement Intérieur de l’Association.
 
-Sont Adhérents d'Honneur ceux qui ont rendu ou réaliseront des services d’envergure conséquente à l’Association ; ils sont dispensés de cotisation pour leur entrée dans l'association l'année en cours selon la volonté du Conseil d'Administration.
+Sont Adhérents d'Honneur ceux qui ont rendu ou réaliseront des services d’envergure exceptionnelle à l’Association ; ils sont dispensés de cotisation pour leur entrée dans l'association l'année en cours selon la volonté du Conseil d'Administration.
  
 Sont Adhérents temporaires ceux qui rejoindront l'association sur une durée définie selon le Règlement Intérieur dédié à des événements spécifiques.
 
 Les membres fondateurs sont les créateurs et premiers membres de l'Association.
 
 Composé de : David Moncenis et Philippe Moncenis
+
+S'ils quittent l'Association, ils retrouveront leur statut de Membres Fondateurs s'ils demandent une réadmission.
 
 Seuls les membres à jour du paiement de leur cotisation à l’exception des Adhérents d'Honneur auront le pouvoir de voter et participer activement lors des Assemblées Générales Ordinaires et Extraordinaires.
 
@@ -116,13 +111,13 @@ Sont abordés en priorité les points inscrits à l'ordre du jour ainsi que la r
 
 Si un membre de l’association ne peut assister personnellement à une assemblée, il peut s’y faire représenter par un mandataire. La condition à remplir est de remplir le document de procuration “Pouvoir de représentation assemblée générale association loi 1901” mis à disposition, et de la transmettre au Conseil d'Administration par e-mail, au moins 3 jours avant la prochaine assemblée, lors de l’envoi par mail de l’invitation à l’Assemblée générale.
 
-Chaque membre de l’Assemblée a donc une voix. Mais les membres peuvent bénéficier de voix supplémentaires, s’ils ont des procurations qui leur ont été données par les membres n’assistant pas à l’Assemblée. (Maximum de 3 voix supplémentaires).
+Chaque membre de l’Assemblée a donc une voix et autant de voix supplémentaires qu’il a de procurations qui lui ont été données par les membres n’assistant pas à l’Assemblée.
  
 Il est procédé, après épuisement de l'ordre du jour, au renouvellement des membres du Conseil d'Administration selon les places vacantes.
 
 Est éligible au Conseil d'Administration tout membre à jour de ses cotisations et membre de l’Association, à l’exception des adhérents temporaires. Les candidatures doivent être notifiées préalablement par lettre recommandée ou mail avec accusé de réception au Président 3 jours avant l'Assemblée Générale. L’annonce des candidatures au Conseil d’Administration feront l’objet d’une communication aux adhérents de l’Association.
  
-Les élections des membres du Conseil d’Administration se font lors de l’assemblée générale. Les délibérations sont prises à main levée. En cas de partage, la voix du Président est prépondérante sauf en cas d'élection du Conseil d'Administration.
+Les élections des membres du Conseil d’Administration se font à bulletin secret. Toutes les autres délibérations sont prises à main levée, sauf si les membres présents souhaitent réaliser le vote à bulletin secret. En cas de partage, la voix du Président est prépondérante sauf en cas d'élection du Conseil d'Administration.
 
 Les décisions des Assemblées Générales s’imposent à tous les membres, y compris absents ou représentés.
 
@@ -142,13 +137,14 @@ L'Association est dirigée par un Conseil d'Administration de 2 membres au minim
  
 Un membre du Conseil d'Administration peut démissionner de son poste en adressant un courrier en recommandé ou un courrier électronique avec accusé de réception à l’attention du Président.
 
-Tout membre du Conseil d'Administration qui, sans excuse jugée valable (raisons de santé, familiale ou raisons professionnelles), ne prendrait pas ses responsabilités vis-à-vis de son poste ou qui serait dans l'incapacité à long terme de participer activement à l'association (tâches à réalisées en amont, pendant, et après les événements) sera considéré par le Président comme démissionnaire de son poste.
+Tout membre du Conseil d'Administration qui, sans excuse valable, ne prendrait pas ses responsabilités vis-à-vis de son poste ou qui serait dans l'incapacité à long terme de participer activement à l'association sera considéré comme démissionnaire de son poste.
  
 Le Conseil peut, s'il le souhaite, accepter un nouveau poste d’un membre de l’association dans le Conseil d’Administration par son propre choix afin de répondre aux besoins administratifs de l'association. Il est procédé au remplacement définitif de cette nouvelle prise en poste par la prochaine Assemblée Générale lors des votes des membres composant le Conseil d’Administration.
 
+ 
 Le Conseil d'Administration se réunit au moins une fois tous les ans, sur convocation du Président, ou à la demande de la moitié de ses membres.
 
-Les décisions sont prises à 66% des voix du conseil d’administration. En dessous, la voix du Président est prépondérante.
+Les décisions sont prises à la majorité des voix ; en cas de partage, la voix du Président est prépondérante.
 
 
 ## ARTICLE 14 – LE BUREAU 
@@ -173,14 +169,14 @@ Le rapport financier présenté à l’assemblée générale ordinaire présente
 
 ## ARTICLE - 16 - REGLEMENT INTERIEUR 
 
-Un règlement intérieur peut être établi par le conseil d'administration, qui le fait alors approuver par l'assemblée générale. La mise à jour du règlement intérieur est communiquée aux membres de l’Association via les moyens de communication adaptés. 
+Un règlement intérieur peut être établi par le conseil d'administration, qui le fait alors approuver par l'assemblée générale et communique sa mise à jour aux adhérents via ses différents moyens de communication possibles. 
 
-Ce règlement éventuel est destiné à fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association. Cela inclut de définir les missions et responsabilités des membres et bénévoles engagés dans le fonctionnement administratif et logistique de l’association, les frais de cotisations, la gestion du matériel.
+Ce règlement éventuel est destiné à fixer les divers points non prévus par les présents statuts, les missions et responsabilités des membres du bureau ainsi que des autres membres engagés dans le fonctionnement administratif et logistique interne de l’association, les frais de cotisations, la gestion du matériel, ainsi que les règles de la “ charte du bénévole”.
 
 
 ## ARTICLE - 17 - DISSOLUTION 
 
-En cas de dissolution prononcée selon les modalités prévues à l’article 12, un ou plusieurs liquidateurs sont nommés par le conseil d'administration, et l'actif net, s'il y a lieu, est dévolu conformément aux décisions de l’assemblée générale extraordinaire qui statue sur la dissolution. Si actif il y a, celui-ci sera dévolu à une association ayant des buts similaires.
+En cas de dissolution prononcée selon les modalités prévues à l’article 12, un ou plusieurs liquidateurs sont nommés par le conseil d'administration, et l'actif net, s'il y a lieu, est dévolu conformément aux décisions de l’assemblée générale extraordinaire qui statue sur la dissolution. Si actif il y à, celui-ci sera dévolu à une association ayant des buts similaires.
 
 L’actif net ne peut être dévolu à un membre de l’association, même partiellement, sauf reprise d’un apport. 
 
