@@ -12,16 +12,16 @@ Cette association a pour objet de promouvoir la découverte et la passion de l�
 La pratique de l'organisation et de la diffusion francophone d'événements, caritatifs où non, en relation avec la pratique des jeux vidéo fait également partie des objectifs de l’association.
 
 L’association peut être amenée à collecter de quoi se financer via :
-\- la tenue de stand
-\- la vente de produits dérivés promouvant l'association
-\- la réalisation de produits ou de prestations de service
-\- etc...
+- la tenue de stand
+- la vente de produits dérivés promouvant l’association
+- la réalisation de produits ou de prestations de service
+- etc...
 
 
 ## ARTICLE 3 - SIÈGE SOCIAL 
 
 Le siège social est fixé au 230 rue Albert Reynier, 38140 Izeaux.  
-Il pourra être transféré par simple décision du Conseil d'Administration. Les statuts de l'association sont mis à jour en conséquence et l’Assemblée Générale est tenue informée de toute modification.
+Il pourra être transféré par simple décision du Conseil d'Administration. Les statuts de l’association sont mis à jour en conséquence et l’Assemblée Générale est tenue informée de toute modification.
 
 
 ## Article 4 - DUREE
@@ -56,7 +56,7 @@ Sont Adhérents ceux à jour de leur cotisation annuelle telle que définie dans
 
 Sont Adhérents d'Honneur ceux qui ont rendu ou réaliseront des services d’envergure conséquente à l’Association ; ils sont dispensés de cotisation pour leur entrée dans l'association l'année en cours selon la volonté du Conseil d'Administration.
 
-Sont Adhérents temporaires ceux qui rejoindront l'association sur une durée définie selon le Règlement Intérieur dédié àdes événements spécifiques.
+Sont Adhérents temporaires ceux qui rejoindront l'association sur une durée définie selon le Règlement Intérieur dédié à des événements spécifiques.
 
 Les membres fondateurs sont les créateurs et premiers membres de l'Association.
 
@@ -141,6 +141,7 @@ Les délibérations sont prises à la majorité relative des membres présents o
 L'Association est dirigée par un Conseil d'Administration de 2 membres au minimum. Élu pour deux années par l'Assemblée Générale. Les membres sont rééligibles autant de fois qu’ils le souhaitent.
 
 Un membre du Conseil d'Administration peut démissionner de son poste en adressant un courrier en recommandé ou un courrier électronique avec accusé de réception à l’attention du Président.
+
 Tout membre du Conseil d'Administration qui, sans excuse jugée valable (raisons de santé, familiale ou raisons professionnelles), ne prendrait pas ses responsabilités vis-à-vis de son poste ou qui serait dans l'incapacité à long terme de participer activement à l'association (tâches à réalisées en amont, pendant, et après les événements) sera considéré par le Président comme démissionnaire de son poste.
 
 Le Conseil peut, s'il le souhaite, accepter un nouveau poste d’un membre de l’association dans le Conseil d’Administration par son propre choix afin de répondre aux besoins administratifs de l'association. Il est procédé au remplacement définitif de cette nouvelle prise en poste par la prochaine Assemblée Générale lors des votes des membres composant le Conseil d’Administration.
@@ -171,7 +172,7 @@ Le rapport financier présenté à l’assemblée générale ordinaire présente
 
 ## ARTICLE - 16 - REGLEMENT INTERIEUR 
 
-Un règlement intérieur peut être établi par le conseil d'administration, qui le fait alors approuver par l'assemblée générale. La mise à jour du règlement intérieur est communiquée aux membres de l'Association via les moyens de communication adaptés.
+Un règlement intérieur peut être établi par le conseil d'administration, qui le fait alors approuver par l'assemblée générale. La mise à jour du règlement intérieur est communiquée aux membres de l’Association via les moyens de communication adaptés.
 
 Ce règlement éventuel est destiné à fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association. Cela inclut de définir les missions et responsabilités des membres et bénévoles engagés dans le fonctionnement administratif et logistique de l’association, les frais de cotisations, la gestion du matériel.
 
@@ -183,7 +184,7 @@ En cas de dissolution prononcée selon les modalités prévues à l’article 12
 L’actif net ne peut être dévolu à un membre de l’association, même partiellement, sauf reprise d’un apport.
 
 
-## Article — 18 LIBERALITES :
+## Article – 18 LIBERALITES :
 
 Le rapport et les comptes annuels, tels que définis à l’article 11 (y compris ceux des comités locaux) sont adressés chaque année au Préfet du département.  
 L’association s’engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l’emploi des libéralités qu’elle serait autorisée à recevoir, à laisser visiter ses établissements par les représentants de ces autorités compétentes et à leur rendre compte du fonctionnement desdits établissements.
