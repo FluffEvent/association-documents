@@ -36,7 +36,7 @@ Une cotisation arbitraire pour le statut de membre temporaire sera fixée pour c
 
 ## Article 3 – Cotisation Annuelle
 
-Afin de couvrir au minimum les dépenses fixes de l'Association et lui permettre d'exister, une cotisation d'une valeur de 15 euros pour une année sera demandée à chaque nouveau membre, et d’une valeur de 12 euros pour chaque adhérent renouvelant sa cotisation annuelle.
+Afin de couvrir au minimum les dépenses fixes de l'Association et lui permettre d'exister, une cotisation d'une valeur de 25 euros pour une année sera demandée à chaque nouveau membre, et d’une valeur de 20 euros pour chaque adhérent renouvelant sa cotisation annuelle.
 
 La date de renouvellement de cotisation annuelle de tous les anciens adhérents est fixée pour la fin du mois de Septembre au maximum. Si la cotisation, et les documents pouvant lui être joints, ne sont pas reçues en temps voulu, cela invalide les droits qui lui ont été accordés par ce statut.
 
@@ -56,7 +56,7 @@ Dans le cadre d’une future adhésion temporaire, le Conseil d’Administration
 Si des frais ont été engagés pour le paiement de sa cotisation ou contribution à un événement par la personne concernée, un remboursement total de ses frais lui sera proposé, selon les moyens accessibles de l’association.
 
 
-## Article 5 – Démission – Exclusion – Décès d’un membre
+## Article 5 – Démission — Exclusion — Décès d’un membre
 
 1\. La démission doit être adressée au Président par lettre recommandée ou par mail avec accusé de réception. Elle n’a pas à être motivée par le membre démissionnaire.
 
@@ -81,7 +81,7 @@ sachant que de simples rappels à l'ordre peuvent être déclarés sans suite si
 La cotisation versée à l’association est définitivement acquise, même cas en cas de démission, d’exclusion, ou de décès d’un membre en cours d’année.
 
 
-## Article 6 – Réunions – Assemblées – Modalités applicables aux votes
+## Article 6 – Réunions - Assemblées - Modalités applicables aux votes
 
 Le Conseil d'Administration peut inviter à chacune de ses réunions n'importe quel membre de l'association, ou un conseiller extérieur à l'association, afin de permettre une meilleure vision des discussions et choix entrepris. Mais seul le Conseil aura le droit de vote et pourra faire signer aux invités une clause de confidentialité sur les sujets abordés de la réunion à laquelle il aura assisté.
 
@@ -139,7 +139,7 @@ Des responsables de Pôles d'Activités peuvent être désignés afin de répart
 Un bénévole n'a pas besoin d'être membre de l'association, mais doit respecter ses statuts, son règlement intérieur et prendre en considération qu’il la représente à travers ses missions.
 
 Un adhérent de l'Association n'a aucune obligation d'être bénévole lors d'un événement, mais  
-ne pourra pas avoir accès aux informations, matériel et zones accessibles aux bénévoles. 
+ne pourra pas avoir accès aux informations, matériel et zones accessibles aux bénévoles.
 
 Un bénévole n’aura pas accès aux avantages et droits des membres permanents, mais pourra bénéficier d’autres avantages spécifiques aux événements réalisés.
 
@@ -152,12 +152,12 @@ L'Association pourra réaliser ses propres événements payants ou non, tel que 
 
 Selon les activités/événements et règlements en vigueur, l'Association peut :
 
-– Tenir une buvette publique (avec les autorisations préalables et les limites imposées) afin de se financer par la vente de ses produits consommables.  
-– Réaliser des repas/buffets (avec les autorisations préalables, règles d'hygiène, informations  
+\- Tenir une buvette publique (avec les autorisations préalables et les limites imposées) afin de se financer par la vente de ses produits consommables.  
+\- Réaliser des repas/buffets (avec les autorisations préalables, règles d'hygiène, informations  
 sur les allergènes) pour les participants s'étant préalablement inscrits.
-– Réaliser la vente et locations de produits non-alimentaires, achetés ou réalisés par ses membres, tout en respectant les lois en vigueur afin de financer l'Association.  
-Des stands pour des exposants, artisans ou vendeurs (faisant partie ou non de l'Association)  
-peuvent être offerts ou loués lors des divers événements. Un contrat entre les 2 parties sera établi préalablement afin de respecter leurs engagements et devra dans tous les cas avoir un rapport envers l'objet de l'Association.  
+\- Réaliser la vente et locations de produits non-alimentaires, achetés ou réalisés par ses membres, tout en respectant les lois en vigueur afin de financer l'Association.
+
+Des stands pour des exposants, artisans ou vendeurs (faisant partie ou non de l'Association) peuvent être offerts ou loués lors des divers événements. Un contrat entre les 2 parties sera établi préalablement afin de respecter leurs engagements et devra dans tous les cas avoir un rapport envers l'objet de l'Association.  
 L'Association ne touchera aucune prime ou pourcentage des ventes réalisés par ces stands.
 
 
@@ -232,9 +232,11 @@ Tout soucis concernant un membre, quel que soit son statut, ne pouvant être ré
 La convivialité, le partage, l’union et la famille font partie des valeurs de l'Association.  
 En vous remerciant de participer à cette aventure tous ensemble.  
 David Moncenis, Président du Fluff Event  
-Fluff Event, N° RNA :  
-Association loi 1901 déclaré à la préfecture du XXXXXX  
+Fluff Event, N° RNA : W381027566  
+Association loi 1901 déclaré à la préfecture de l'Isère  
 Siège social : 230 rue Albert reynier - 38140 Izeaux  
 fluffevent@gmail.com
 
-Version 1 mise en application le xx/xx/xxxx
+Version 1 mise en application le 12/04/2023
+
+_\[ Signature David Moncenis (président) \]_
