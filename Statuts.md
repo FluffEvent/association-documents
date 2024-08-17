@@ -102,7 +102,7 @@ L’Association pourrait faire de la vente et location de produits, produits ach
 
 L'Assemblée Générale ordinaire comprend tous les membres de l'association à l’exception des adhérents temporaires. Les statuts prévoient que les membres de l'Association qui ne sont pas à jour dans leurs cotisations ne peuvent pas participer aux votes lors de l'Assemblée Générale.
 
-Elle se réunit au minimum une fois dans l'année. Quinze jours au moins avant la date fixée, les membres de l'Association sont convoqués par les soins du Président par lettre ou courriers électroniques. L'ordre du jour figure sur les convocations.
+Elle se réunit au minimum une fois dans l'année. Sept (7) jours avant la date fixée, les membres de l'Association sont convoqués par les soins du Président par lettre ou courriers électroniques. L'ordre du jour figure sur les convocations.
 
 Selon les possibilités et conditions de réalisation, la réunion peut être suivie par visioconférence pour les adhérents.
 
