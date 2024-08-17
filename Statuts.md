@@ -116,7 +116,7 @@ Sont abordés en priorité les points inscrits à l'ordre du jour ainsi que la r
 
 Si un membre de l’association ne peut assister personnellement à une assemblée, il peut s’y faire représenter par un mandataire. La condition à remplir est de remplir le document de procuration “Pouvoir de représentation assemblée générale association loi 1901” mis à disposition, et de la transmettre au Conseil d'Administration par e-mail, au moins 3 jours avant la prochaine assemblée, lors de l’envoi par mail de l’invitation à l’Assemblée générale.
 
-Chaque membre de l’Assemblée a donc une voix. Mais les membres peuvent bénéficier de voix supplémentaires, s’ils ont des procurations qui leur ont été données par les membres n’assistant pas à l’Assemblée. (Maximum de 3 voix supplémentaires).
+Chaque adhérent chargé de voter par procuration, ne peut avoir qu'une seule procuration au maximum.
 
 Il est procédé, après épuisement de l'ordre du jour, au renouvellement des membres du Conseil d'Administration selon les places vacantes.
 
