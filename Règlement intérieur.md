@@ -36,7 +36,7 @@ Une cotisation arbitraire pour le statut de membre temporaire sera fixée pour c
 
 ## Article 3 – Cotisation Annuelle
 
-Afin de couvrir au minimum les dépenses fixes de l'Association et lui permettre d'exister, une cotisation d'une valeur de 25 euros pour une année sera demandée à chaque nouveau membre, et d’une valeur de 20 euros pour chaque adhérent renouvelant sa cotisation annuelle.
+Afin de couvrir au minimum les dépenses fixes de l'Association et lui permettre d'exister, une cotisation d'une valeur de vingt (20) euros pour une année sera demandée à chaque nouveau membre, et d’une valeur de quinze (15) euros pour chaque adhérent renouvelant sa cotisation annuelle.
 
 La date de renouvellement de cotisation annuelle de tous les anciens adhérents est fixée pour la fin du mois de Septembre au maximum. Si la cotisation, et les documents pouvant lui être joints, ne sont pas reçues en temps voulu, cela invalide les droits qui lui ont été accordés par ce statut.
 
