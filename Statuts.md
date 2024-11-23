@@ -1,4 +1,4 @@
-# Statuts de l’Association “Fluff Event“
+# Statuts de l’Association "Fluff Event"
 
 ## ARTICLE PREMIER - NOM
 
@@ -65,7 +65,7 @@ Composé de : David Moncenis et Philippe Moncenis
 Seuls les membres à jour du paiement de leur cotisation à l’exception des Adhérents d'Honneur auront le pouvoir de voter et participer activement lors des Assemblées Générales Ordinaires et Extraordinaires.
 
 
-## ARTICLE 8. - RADIATIONS 
+## ARTICLE 8 - RADIATIONS 
 
 La qualité de membre se perd par :
 
@@ -80,14 +80,14 @@ d\) Le non-respect des présents statuts et du Règlement Intérieur, après mis
 La décision d’exclusion est notifiée au membre exclu par lettre recommandée ou e-mail avec accusé de réception dans les huit jours suivant la décision du Conseil d’Administration.
 
 
-## ARTICLE 9. - AFFILIATION
+## ARTICLE 9 - AFFILIATION
 
 La présente Association n’a aucune affiliation ni adhésion.
 
 Elle peut adhérer à d’autres associations, fédérations ou regroupements par décision du Conseil d'Administration qui sera soumis à validation de la prochaine Assemblée Générale.
 
 
-## ARTICLE 10. - RESSOURCES 
+## ARTICLE 10 - RESSOURCES 
 
 Les ressources de l'Association comprennent :
 
@@ -172,21 +172,21 @@ Toutes les fonctions, y compris celles des membres du conseil d’administration
 Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 
 
-## ARTICLE - 16 - REGLEMENT INTERIEUR 
+## ARTICLE 16 - REGLEMENT INTERIEUR 
 
 Un règlement intérieur peut être établi par le conseil d'administration, qui le fait alors approuver par l'assemblée générale. La mise à jour du règlement intérieur est communiquée aux membres de l’Association via les moyens de communication adaptés.
 
 Ce règlement éventuel est destiné à fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association. Cela inclut de définir les missions et responsabilités des membres et bénévoles engagés dans le fonctionnement administratif et logistique de l’association, les frais de cotisations, la gestion du matériel.
 
 
-## ARTICLE - 17 - DISSOLUTION 
+## ARTICLE 17 - DISSOLUTION 
 
 En cas de dissolution prononcée selon les modalités prévues à l’article 12, un ou plusieurs liquidateurs sont nommés par le conseil d'administration, et l'actif net, s'il y a lieu, est dévolu conformément aux décisions de l’assemblée générale extraordinaire qui statue sur la dissolution. Si actif il y a, celui-ci sera dévolu à une association ayant des buts similaires.
 
 L’actif net ne peut être dévolu à un membre de l’association, même partiellement, sauf reprise d’un apport.
 
 
-## Article – 18 LIBERALITES :
+## Article 18 - LIBERALITES
 
 Le rapport et les comptes annuels, tels que définis à l’article 11 (y compris ceux des comités locaux) sont adressés chaque année au Préfet du département.  
 L’association s’engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l’emploi des libéralités qu’elle serait autorisée à recevoir, à laisser visiter ses établissements par les représentants de ces autorités compétentes et à leur rendre compte du fonctionnement desdits établissements.
