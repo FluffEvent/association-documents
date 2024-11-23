@@ -55,7 +55,7 @@ Dans le cadre d’une future adhésion temporaire, le Conseil d’Administration
 Si des frais ont été engagés pour le paiement de sa cotisation ou contribution à un événement par la personne concernée, un remboursement total de ses frais lui sera proposé, selon les moyens accessibles de l'Association.
 
 
-## Article 5 - Démission — Exclusion — Décès d’un membre
+## Article 5 - Démission – Exclusion – Décès d’un membre
 
 1\. La démission doit être adressée au Président par lettre recommandée ou par mail avec accusé de réception. Elle n’a pas à être motivée par le membre démissionnaire.
 
