@@ -1,4 +1,4 @@
-# Règlement intérieur de l’Association “Fluff Event“
+# Règlement intérieur de l’Association "Fluff Event"
 
 Règlement Intérieur écrit et validé par le Conseil d'Administration du Fluff Event
 
@@ -7,7 +7,7 @@ Tout adhérent devra en prendre connaissance et s'y soumettre afin de permettre 
 Ce texte présent du Règlement Intérieur pourra être modifié par le Conseil d'Administration et ses changements ratifiés lors de la prochaine Assemblée Générale.
 
 
-## Article 1 – Agrément des Nouveaux Membres Permanents
+## Article 1 - Agrément des Nouveaux Membres Permanents
 
 Tout nouveau membre doit être majeur (ou émancipé et avoir 16 ans au minimum) et doit soutenir les objectifs et volontés de l'Association à travers la découverte et la passion de l'Anthropomorphisme. Que cela soit envers la communauté du Fandom Furry, diverses autres communautés de passionnés ou envers le « Grand Public ».
 
@@ -24,7 +24,7 @@ Toute nouvelle adhésion d’un membre doit être notifiée au Conseil d’Admin
 Ce dernier pouvant, s’il le souhaite, émettre un véto dans les conditions prévues aux statuts.
 
 
-## Article 2 – Les Adhérents Temporaires
+## Article 2 - Les Adhérents Temporaires
 
 Lors de certains événements organisés par l'Association ou en tant que partenaire à d'autres  
 structures, le statut de membre temporaire peut être attribué aux non-membres permanents de l’association.
@@ -34,7 +34,7 @@ Les dates et la durée de ce statut seront stipulées dans le document concernan
 Une cotisation arbitraire pour le statut de membre temporaire sera fixée pour chaque événement privé. Cette somme pourra être confondue dans le prix global d'une participation à l'événement dédié pour faire partie des participants.
 
 
-## Article 3 – Cotisation Annuelle
+## Article 3 - Cotisation Annuelle
 
 Afin de couvrir au minimum les dépenses fixes de l'Association et lui permettre d'exister, une cotisation d'une valeur de vingt (20) euros pour une année sera demandée à chaque nouveau membre, et d’une valeur de quinze (15) euros pour chaque adhérent renouvelant sa cotisation annuelle.
 
@@ -45,7 +45,7 @@ Toute cotisation envoyée entre la date de l’Assemblée Générale ordinaire d
 La valeur de la cotisation peut être modifiée à tout moment au cours de l'année, mais toute cotisation effectuée auparavant ne sera pas impactée par ce changement.
 
 
-## Article 4 – Refus d’adhésion
+## Article 4 - Refus d’adhésion
 
 Dans une optique d’assurer une cohérence envers les valeurs de l’association, de son image, la sécurité et le confort de ses activités, ses membres la composant, le Conseil Administratif peut, sans avoir à se justifier, refuser la demande d’admission d’un adhérent. Ce refus peut s’appliquer pour l’admission en tant qu’adhérent de l’association ainsi qu’à la participation d’événements privés.
 
@@ -56,7 +56,7 @@ Dans le cadre d’une future adhésion temporaire, le Conseil d’Administration
 Si des frais ont été engagés pour le paiement de sa cotisation ou contribution à un événement par la personne concernée, un remboursement total de ses frais lui sera proposé, selon les moyens accessibles de l’association.
 
 
-## Article 5 – Démission — Exclusion — Décès d’un membre
+## Article 5 - Démission — Exclusion — Décès d’un membre
 
 1\. La démission doit être adressée au Président par lettre recommandée ou par mail avec accusé de réception. Elle n’a pas à être motivée par le membre démissionnaire.
 
@@ -81,7 +81,7 @@ sachant que de simples rappels à l'ordre peuvent être déclarés sans suite si
 La cotisation versée à l’association est définitivement acquise, même cas en cas de démission, d’exclusion, ou de décès d’un membre en cours d’année.
 
 
-## Article 6 – Réunions - Assemblées - Modalités applicables aux votes
+## Article 6 - Réunions - Assemblées - Modalités applicables aux votes
 
 Le Conseil d'Administration peut inviter à chacune de ses réunions n'importe quel membre de l'association, ou un conseiller extérieur à l'association, afin de permettre une meilleure vision des discussions et choix entrepris. Mais seul le Conseil aura le droit de vote et pourra faire signer aux invités une clause de confidentialité sur les sujets abordés de la réunion à laquelle il aura assisté.
 
@@ -100,7 +100,7 @@ Comme indiqué à l’article « 11 » des Statuts, si un membre de l’Associat
 Dans le cas où un membre est autorisé à participer et voter par visioconférence lors d'une Assemblée Générale. Il votera comme tout le monde à main levée ou par message écrit. Et lors des votes à bulletin secret, il transmettra son vote par message privé à un membre qu’il aura désigné.
 
 
-## Article 7 – Indemnités de Remboursements
+## Article 7 - Indemnités de Remboursements
 
 Les membres de l'Association, peuvent prétendre au remboursement des frais engagés dans le cadre de l'activité de l'Association, sur justification et validation par le Conseil d’Administration.
 
@@ -114,7 +114,7 @@ note de frais avec toutes les pièces justificatives concernant les achats réal
 Le Président et le Trésorier de l'Association ont accès directement au compte bancaire de l'Association afin qu'ils gèrent avec simplicité leurs propres remboursements personnels pour les achats en ligne ou sur place, tout en respectant les mêmes règles pour les notes de frais de tous les membres.
 
 
-## Article 8 – Matériel Associatif, Prêté et Loué
+## Article 8 - Matériel Associatif, Prêté et Loué
 
 Tout achat réalisé avec les ressources de l'Association lui appartiendra et sera noté dans le registre des 'Propriétés de l'Association'. Toute utilisation incorrecte d'un membre provoquant  
 une dégradation du matériel lui sera imputée et il devra rembourser ou racheter son équivalent neuf (sauf contre-indication du Conseil Administratif).
@@ -130,7 +130,7 @@ Tout matériel prêté ou loué par des tiers extérieurs sera considéré comme
 L'assurance de l'Association ne couvre ni le matériel ni les locaux décrits ci-dessus. Seuls les locaux loués ou prêtés avec leur matériel et mobiliers présents peuvent être couvert par l'assurance de l'Association.
 
 
-## Article 9 – Bénévoles, Missions et Pôles d'activités
+## Article 9 - Bénévoles, Missions et Pôles d'activités
 
 Des missions de travail spécifique peuvent être constituées par décision du Conseil d’Administration. Ces missions seront confiées aux bénévoles en fonction de leurs compétences, connaissances, biens matériels, forme physique, du temps à leurs dispositions et surtout de leurs motivations.
 
@@ -144,7 +144,7 @@ ne pourra pas avoir accès aux informations, matériel et zones accessibles aux 
 Un bénévole n’aura pas accès aux avantages et droits des membres permanents, mais pourra bénéficier d’autres avantages spécifiques aux événements réalisés.
 
 
-## Article 10 – Prestations, Animations et Événements
+## Article 10 - Prestations, Animations et Événements
 
 L'Association pourra effectuer diverses prestations et animations, payantes ou non, envers d'autres entités qui vont dans le sens de l'objet des activités du Fluff Event.
 
@@ -161,7 +161,7 @@ Des stands pour des exposants, artisans ou vendeurs (faisant partie ou non de l'
 L'Association ne touchera aucune prime ou pourcentage des ventes réalisés par ces stands.
 
 
-## Article 11 – Données privés et RGPD
+## Article 11 - Données privés et RGPD
 
 Des données personnelles peuvent être recueillies avec l’accord des signataires lors de la signature de certains documents, tel que :
 
@@ -192,7 +192,7 @@ Les données sont conservées :
 \- 3 ans après la signature de l’autorisation du droit à l’image et de l’autorisation du port de fursuit, sauf sur demande de renouvellement de ces autorisations par le signataire.
 
 
-## Article 12 – Droit à l'Image et de la Voix
+## Article 12 - Droit à l'Image et de la Voix
 
 Lors des activités et événements réalisés par l'Association, ou en partenariat d'une autre structure, une autorisation de droit à l'image/voix peut être demandée.
 
@@ -204,7 +204,7 @@ Toute demande de rectification de ces données peut être par la suite demandée
 accorder ce droit à l’image sur les autres publications futures de l’association.
 
 
-## Article 13 – Sécurité et responsabilité
+## Article 13 - Sécurité et responsabilité
 
 L’association met en place, pour chacun de ces événements privés ou publics, un règlement intérieur ou des consignes (écrites ou orales) à respecter pour chaque participant.  
 Des bénévoles ou des responsables dédiés à la surveillance et au confort des participants sont mis en place dans la mesure du possible avec les moyens légaux et matériels à disposition.
@@ -220,7 +220,7 @@ Ses échanges seront purement confidentiels, objectifs, et vus avec bienveillanc
 L’association n’est pas responsable des actes de chacun, mais procédera à l’exclusion de ses événements et de ses activités, toute personne ne respectant pas les consignes décrétées, qui s’expose à des sanctions. En cas de troubles pouvant nuire à autrui ou à l’image de l’association lors de ses activités ou en dehors, une exclusion et/ou bannissement de la personne peuvent être décrétés ainsi qu’un recours en justice selon l’évaluation des actes du ou de la concerné(e) par le Conseil d'administration.
 
 
-## Article 14 – Convivialité, Entente et Respect
+## Article 14 - Convivialité, Entente et Respect
 
 Tous les membres de l'Association (et les bénévoles) se devront le respect mutuel, quelles que soient leurs origines, leurs opinions politiques, leurs situations sociales et leur genre. Ils devront agir pour le bien commun des objectifs de l'Association.
 
