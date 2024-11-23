@@ -1,4 +1,4 @@
-# Conseil d'Administration de l’Association “Fluff Event“
+# Conseil d'Administration de l'Association "Fluff Event"
 
 _Mis à jour le 18 août 2024._
 

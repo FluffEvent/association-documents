@@ -1,4 +1,4 @@
-# Bureau de l’Association “Fluff Event“
+# Bureau de l'Association "Fluff Event"
 
 _Mis à jour le 23 novembre 2024._
 
