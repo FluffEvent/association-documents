@@ -1,6 +1,6 @@
 # Bureau de l’Association “Fluff Event“
 
-_Mis à jour le 3 juillet 2024._
+_Mis à jour le 23 novembre 2024._
 
 Le Bureau est l'organe exécutif administratif de l'Association "Fluff Event".
 
@@ -12,8 +12,19 @@ graph TB
   FE --> Bureau{{Bureau}}
 
   Bureau -- Président --- Fluffy[Fluffy Tail]
-  Bureau -- Trésorier --- Phil[Phil]
+  Bureau -- Trésorier --- Matiboux[Matiboux]
 ```
+
+
+---
+
+**Situation au 18 août 2024**
+
+Suite à l’Assemblée Générale Ordinaire du 18 août 2024, les membres du Conseil d'Administration sont :
+
+\- Occupant la fonction de président : **Fluffy Tail**.
+
+\- Occupant la fonction de trésorier : **Matiboux**.
 
 
 ---
