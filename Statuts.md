@@ -198,12 +198,12 @@ Les présents statuts ont été votés lors de l'Assemblée Générale du 18/08/
 
 Signatures des deux représentants de l'Association :
 
-> Nom complet : David MONCENIS  
+> Nom complet : David MONCENIS-CHONCHON  
 > Fonction dans l'Association : Président de l'Association  
 > Date : 23/11/2024  
 > Signature :
 > 
-> _\[ Signature David MONCENIS (président) \]_
+> _\[ Signature David MONCENIS-CHONCHON (président) \]_
 
 > Nom complet : Mathieu GUÉRIN    
 > Fonction dans l'Association : Trésorier de l'Association  
