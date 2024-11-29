@@ -1,4 +1,4 @@
-# Règlement intérieur de l’Association "Fluff Event"
+# Règlement intérieur de l'Association "Fluff Event"
 
 Règlement Intérieur écrit et validé par le Conseil d'Administration du Fluff Event
 
@@ -11,11 +11,10 @@ Ce texte présent du Règlement Intérieur pourra être modifié par le Conseil 
 
 Tout nouveau membre doit être majeur (ou émancipé et avoir 16 ans au minimum) et doit soutenir les objectifs et volontés de l'Association à travers la découverte et la passion de l'Anthropomorphisme. Que cela soit envers la communauté du Fandom Furry, diverses autres communautés de passionnés ou envers le « Grand Public ».
 
-Les personnes désirant adhérer doivent formuler leur souhait et leur motivation afin de rejoindre l'association. Un bulletin d’adhésion leur sera alors adressé ainsi que la demande de participation à la cotisation annuelle. Les différents groupes de discussions,  
+Les personnes désirant adhérer doivent formuler leur souhait et leur motivation afin de rejoindre l'Association. Un bulletin d’adhésion leur sera alors adressé ainsi que la demande de participation à la cotisation annuelle. Les différents groupes de discussions,  
 d'informations et de partages pour les membres de l'Association leur seront communiqués dès la réception de la cotisation annuelle.
 
-Les Adhérents d'Honneur sont invités par le Conseil d'Administration à rejoindre l'Association  
-et sont exemptés de cotisation pour l'année en cours, mais peuvent tout de même y participer s'ils le souhaitent. Ils ont généralement réalisé des services signalés à l'association.
+Les Adhérents d'Honneur sont invités par le Conseil d'Administration à rejoindre l'Association et sont exemptés de cotisation pour l'année en cours, mais peuvent tout de même y participer s'ils le souhaitent. Ils ont généralement réalisé des services signalés à l'Association.
 
 Si un membre du Conseil d'Administration a une objection à formuler sur une admission d'un membre, une réunion sera réalisée entre les membres du Conseil d'Administration et un vote sera réalisé en privé sur le refus ou non de cette admission ; tout en  
 restant objectif, non-discriminatoire et favorisant avant tout le bien-être de l'Association.
@@ -27,7 +26,7 @@ Ce dernier pouvant, s’il le souhaite, émettre un véto dans les conditions pr
 ## Article 2 - Les Adhérents Temporaires
 
 Lors de certains événements organisés par l'Association ou en tant que partenaire à d'autres  
-structures, le statut de membre temporaire peut être attribué aux non-membres permanents de l’association.
+structures, le statut de membre temporaire peut être attribué aux non-membres permanents de l'Association.
 
 Les dates et la durée de ce statut seront stipulées dans le document concernant l'événement et sera signé et daté par la personne en question.
 
@@ -47,13 +46,13 @@ La valeur de la cotisation peut être modifiée à tout moment au cours de l'ann
 
 ## Article 4 - Refus d’adhésion
 
-Dans une optique d’assurer une cohérence envers les valeurs de l’association, de son image, la sécurité et le confort de ses activités, ses membres la composant, le Conseil Administratif peut, sans avoir à se justifier, refuser la demande d’admission d’un adhérent. Ce refus peut s’appliquer pour l’admission en tant qu’adhérent de l’association ainsi qu’à la participation d’événements privés.
+Dans une optique d’assurer une cohérence envers les valeurs de l'Association, de son image, la sécurité et le confort de ses activités, ses membres la composant, le Conseil Administratif peut, sans avoir à se justifier, refuser la demande d’admission d’un adhérent. Ce refus peut s’appliquer pour l’admission en tant qu’adhérent de l'Association ainsi qu’à la participation d’événements privés.
 
 Un membre du Conseil d’Administration peut déposer son veto contre la demande ou admission récente. Cela entraînera dès que possible une discussion entre les membres du Conseil d’Administration qui procédera à un vote à la majorité.
 
 Dans le cadre d’une future adhésion temporaire, le Conseil d’Administration peut émettre un véto de manière préemptive selon les conditions prévues dans les statuts. La décision de veto ne prenant effet qu’au début effectif de l’adhésion. Toute décision de veto sera valable jusqu’à l’assemblée générale ordinaire de l’année N+1, celle-ci ayant lieu une fois par an.
 
-Si des frais ont été engagés pour le paiement de sa cotisation ou contribution à un événement par la personne concernée, un remboursement total de ses frais lui sera proposé, selon les moyens accessibles de l’association.
+Si des frais ont été engagés pour le paiement de sa cotisation ou contribution à un événement par la personne concernée, un remboursement total de ses frais lui sera proposé, selon les moyens accessibles de l'Association.
 
 
 ## Article 5 - Démission — Exclusion — Décès d’un membre
@@ -63,9 +62,9 @@ Si des frais ont été engagés pour le paiement de sa cotisation ou contributio
 2\. Comme indiqué à l’article « 8 » des Statuts, l’exclusion d’un membre peut être prononcée par le Conseil, pour motif grave, tel que :
 
 \- une condamnation pénale pour crime et délit, harcèlement et/ou abus envers des personnes fragiles  
-\- toute action de nature à porter préjudice, directement ou indirectement, aux activités et éthiques de l’Association ou à sa réputation.  
+\- toute action de nature à porter préjudice, directement ou indirectement, aux activités et éthiques de l'Association ou à sa réputation.  
 \- le non-respect du Règlement Intérieur  
-\- d’autres cas particuliers à une situation pouvant entraîner une réaction proportionnelle et nécessaire de l’association
+\- d’autres cas particuliers à une situation pouvant entraîner une réaction proportionnelle et nécessaire de l'Association
 
 En tout état de cause, l’intéressé doit être mis en mesure de présenter sa défense, préalablement à la décision d’exclusion. La décision d’exclusion est adoptée par le Conseil d'Administration statuant à la majorité des deux tiers des membres présents (la voix du président étant prépondérante).
 
@@ -76,24 +75,24 @@ La décision d’exclusion, d'annulation ou changement de la sanction sera notif
 Dans le cas de trouble(s) léger(s), de non-respects envers les membres ou d'un accident exceptionnel, une exclusion temporaire ou partielle peut être décidée en substitution. Tout en  
 sachant que de simples rappels à l'ordre peuvent être déclarés sans suite si l'adhérent les prend en considération immédiatement.
 
-3\. En cas de décès d’un membre, les héritiers ou les légataires ne peuvent prétendre à un quelconque maintien dans l’association.
+3\. En cas de décès d’un membre, les héritiers ou les légataires ne peuvent prétendre à un quelconque maintien dans l'Association.
 
-La cotisation versée à l’association est définitivement acquise, même cas en cas de démission, d’exclusion, ou de décès d’un membre en cours d’année.
+La cotisation versée à l'Association est définitivement acquise, même cas en cas de démission, d’exclusion, ou de décès d’un membre en cours d’année.
 
 
 ## Article 6 - Réunions - Assemblées - Modalités applicables aux votes
 
-Le Conseil d'Administration peut inviter à chacune de ses réunions n'importe quel membre de l'association, ou un conseiller extérieur à l'association, afin de permettre une meilleure vision des discussions et choix entrepris. Mais seul le Conseil aura le droit de vote et pourra faire signer aux invités une clause de confidentialité sur les sujets abordés de la réunion à laquelle il aura assisté.
+Le Conseil d'Administration peut inviter à chacune de ses réunions n'importe quel membre de l'Association, ou un conseiller extérieur à l'Association, afin de permettre une meilleure vision des discussions et choix entrepris. Mais seul le Conseil aura le droit de vote et pourra faire signer aux invités une clause de confidentialité sur les sujets abordés de la réunion à laquelle il aura assisté.
 
 **Modalité de vote lors des Assemblées Générales et Extraordinaires**
 
-Comme stipulé dans les statuts, l’Assemblée Générale se réunit une fois dans l’année. Les membres seront informés et invités par leurs adresses électroniques, qu’ils auront fournies lors de leur adhésion à l’association., au minimum 15 jours avant la date de l’Assemblée Générale.
+Comme stipulé dans les statuts, l’Assemblée Générale se réunit une fois dans l’année. Les membres seront informés et invités par leurs adresses électroniques, qu’ils auront fournies lors de leur adhésion à l'Association., au minimum 15 jours avant la date de l’Assemblée Générale.
 
 1\. Vote des membres présents :  
 Les membres présents votent à main levée sauf pour élire les membres du Conseil d'Administration qui se fera à bulletin secret si quelqu’un le réclame. Toutefois, un scrutin secret peut être demandé par le Conseil d'Administration pour certains votes.
 
 2\. Vote par procuration :  
-Comme indiqué à l’article « 11 » des Statuts, si un membre de l’Association ne peut assister personnellement à une Assemblée, il peut s’y faire représenter par un mandataire dans les conditions indiquées audit article. Un document de procuration est à disposition et à transmettre au Conseil d'Administration au minimum 3 jours avant la prochaine Assemblée, lors de l'envoi par mail de l'invitation à l'Assemblé Générale.
+Comme indiqué à l’article « 11 » des Statuts, si un membre de l'Association ne peut assister personnellement à une Assemblée, il peut s’y faire représenter par un mandataire dans les conditions indiquées audit article. Un document de procuration est à disposition et à transmettre au Conseil d'Administration au minimum 3 jours avant la prochaine Assemblée, lors de l'envoi par mail de l'invitation à l'Assemblé Générale.
 
 3\. Vote des membres par visioconférence :  
 Dans le cas où un membre est autorisé à participer et voter par visioconférence lors d'une Assemblée Générale. Il votera comme tout le monde à main levée ou par message écrit. Et lors des votes à bulletin secret, il transmettra son vote par message privé à un membre qu’il aura désigné.
@@ -135,7 +134,7 @@ Des missions de travail spécifique peuvent être constituées par décision du 
 
 Des responsables de Pôles d'Activités peuvent être désignés afin de répartir les tâches et gérer les équipes de bénévoles selon les projets en cours. Le statut de bénévole lors d’événements physiques nécessite d'avoir lu, respecté et avoir signé le document de ‘La Charte du Bénévole ‘ mise à disposition, qui récapitule les engagements moraux des 2 parties.
 
-Un bénévole n'a pas besoin d'être membre de l'association, mais doit respecter ses statuts, son règlement intérieur et prendre en considération qu’il la représente à travers ses missions.
+Un bénévole n'a pas besoin d'être membre de l'Association, mais doit respecter ses statuts, son règlement intérieur et prendre en considération qu’il la représente à travers ses missions.
 
 Un adhérent de l'Association n'a aucune obligation d'être bénévole lors d'un événement, mais  
 ne pourra pas avoir accès aux informations, matériel et zones accessibles aux bénévoles.
@@ -164,26 +163,26 @@ L'Association ne touchera aucune prime ou pourcentage des ventes réalisés par 
 
 Des données personnelles peuvent être recueillies avec l’accord des signataires lors de la signature de certains documents, tel que :
 
-\- la demande d’adhésion à l’association.  
+\- la demande d’adhésion à l'Association.  
 \- la signature de la charte du bénévole.  
 \- de l’inscription de participants à des événements.  
 \- la demande d’autorisation de droit à l’image/voix.  
-\- l’autorisation de porter une fursuit selon les autorisations accordées à l’association par les pouvoirs publiques
+\- l’autorisation de porter une fursuit selon les autorisations accordées à l'Association par les pouvoirs publiques
 
-Seuls les membres du bureau administratif de l’association ont accès à la liste de ses données uniquement pour les services administratifs de l’association et ne peuvent les transmettre en dehors des membres du bureau.
+Seuls les membres du bureau administratif de l'Association ont accès à la liste de ses données uniquement pour les services administratifs de l'Association et ne peuvent les transmettre en dehors des membres du bureau.
 
 En aucun cas, ces données ne seront cédées ou vendues à des tiers, sauf dans le cas d’une demande spécifique supplémentaire envers les signataires.
 
-Ces données sont recueillies en vue de tenir à jour les fichiers de l’association selon leurs utilisations spécifiques. Les données sont stockées sous format papier et/ou numérique selon leurs utilisations.
+Ces données sont recueillies en vue de tenir à jour les fichiers de l'Association selon leurs utilisations spécifiques. Les données sont stockées sous format papier et/ou numérique selon leurs utilisations.
 
-L’association fait en sorte de garantir la protection et la confidentialité de ces données. En cas de fuites de ces données, l’association s’engage à vous en informer dans les plus brefs délais et d’en informer les autorités compétentes, tel que la CNIL, sur la gestion des données personnelles selon la loi française.
+L'Association fait en sorte de garantir la protection et la confidentialité de ces données. En cas de fuites de ces données, l'Association s’engage à vous en informer dans les plus brefs délais et d’en informer les autorités compétentes, tel que la CNIL, sur la gestion des données personnelles selon la loi française.
 
 Le responsable des traitements et stockage de ces données est : David Moncenis, pouvant être contacté au 06.51.58.22.86 dans le cadre de l’administration du Fluff Event.
 
-Les signataires peuvent, en vertu du Règlement européen sur la protection des données personnelles, en vigueur depuis le 25/05/2018, avoir accès aux données les concernant ; ils peuvent demander leur rectification et leur suppression (pouvant occasionner une annulation des accords et inscriptions établis si ces données sont essentielles). Ces démarches s’effectuent auprès de David Moncenis par écrit à l’adresse mail de l’association.
+Les signataires peuvent, en vertu du Règlement européen sur la protection des données personnelles, en vigueur depuis le 25/05/2018, avoir accès aux données les concernant ; ils peuvent demander leur rectification et leur suppression (pouvant occasionner une annulation des accords et inscriptions établis si ces données sont essentielles). Ces démarches s’effectuent auprès de David Moncenis par écrit à l’adresse mail de l'Association.
 
 Les données sont conservées :
-\- jusqu’à un an après la fin de l’adhésion à l’association
+\- jusqu’à un an après la fin de l’adhésion à l'Association
 \- jusqu’à 2 ans dans le cadre d’une inscription d’un événement si le signataire souhaite être recontacté pour la prochaine édition, sinon ces données seront supprimés dans les plus brefs délais après le déroulé de l’événement
 \- 3 ans après la signature de la charte du bénévole
 \- 3 ans après la signature de l’autorisation du droit à l’image et de l’autorisation du port de fursuit, sauf sur demande de renouvellement de ces autorisations par le signataire.
@@ -197,30 +196,30 @@ Un participant refusant de donner son accord, pourrait lui voir limiter les acc�
 lors d'événements de groupe.
 
 Les image photos et vidéos serviront uniquement dans le but de la communication de l'Association et des projets qu'elle soutiendra ayant un rapport avec ses activités.  
-Toute demande de rectification de ces données peut être par la suite demandée pour ne plus accorder ce droit à l’image sur les autres publications futures de l’association.
+Toute demande de rectification de ces données peut être par la suite demandée pour ne plus accorder ce droit à l’image sur les autres publications futures de l'Association.
 
 
 ## Article 13 - Sécurité et responsabilité
 
-L’association met en place, pour chacun de ces événements privés ou publics, un règlement intérieur ou des consignes (écrites ou orales) à respecter pour chaque participant.  
+L'Association met en place, pour chacun de ces événements privés ou publics, un règlement intérieur ou des consignes (écrites ou orales) à respecter pour chaque participant.  
 Des bénévoles ou des responsables dédiés à la surveillance et au confort des participants sont mis en place dans la mesure du possible avec les moyens légaux et matériels à disposition.
 
 Un affichage et signalétique des consignes, d’informations ou de sensibilisation sont aussi prévus à cet effet.
 
-Les bénévoles, selon leurs possibilités et disponibilités, seront formés et sensibilisés à la sécurité, aux premiers secours, aux risques d'agression sexuelle, consommation de stupéfiants ou abus d’alcool, de médiations entre les participants ainsi que de gestion de crise. Ce sont des points auxquels l’association prend à cœur à mettre en œuvre dans des actions.
+Les bénévoles, selon leurs possibilités et disponibilités, seront formés et sensibilisés à la sécurité, aux premiers secours, aux risques d'agression sexuelle, consommation de stupéfiants ou abus d’alcool, de médiations entre les participants ainsi que de gestion de crise. Ce sont des points auxquels l'Association prend à cœur à mettre en œuvre dans des actions.
 
-En cas d'inquiétude, de craintes ou de problèmes à signaler, les adhérents ou participants aux activités de l’association peuvent en informer les responsables du Conseil d’Administration.
+En cas d'inquiétude, de craintes ou de problèmes à signaler, les adhérents ou participants aux activités de l'Association peuvent en informer les responsables du Conseil d’Administration.
 
 Ses échanges seront purement confidentiels, objectifs, et vus avec bienveillance pour répondre ou trouver les meilleures dispositions possibles.
 
-L’association n’est pas responsable des actes de chacun, mais procédera à l’exclusion de ses événements et de ses activités, toute personne ne respectant pas les consignes décrétées, qui s’expose à des sanctions. En cas de troubles pouvant nuire à autrui ou à l’image de l’association lors de ses activités ou en dehors, une exclusion et/ou bannissement de la personne peuvent être décrétés ainsi qu’un recours en justice selon l’évaluation des actes du ou de la concerné(e) par le Conseil d'administration.
+L'Association n’est pas responsable des actes de chacun, mais procédera à l’exclusion de ses événements et de ses activités, toute personne ne respectant pas les consignes décrétées, qui s’expose à des sanctions. En cas de troubles pouvant nuire à autrui ou à l’image de l'Association lors de ses activités ou en dehors, une exclusion et/ou bannissement de la personne peuvent être décrétés ainsi qu’un recours en justice selon l’évaluation des actes du ou de la concerné(e) par le Conseil d'administration.
 
 
 ## Article 14 - Convivialité, Entente et Respect
 
 Tous les membres de l'Association (et les bénévoles) se devront le respect mutuel, quelles que soient leurs origines, leurs opinions politiques, leurs situations sociales et leur genre. Ils devront agir pour le bien commun des objectifs de l'Association.
 
-Tout soucis concernant un membre, quel que soit son statut, ne pouvant être résolu de manière saine et impactant l’association devra être signalé au Conseil d'Administration qui statuera sur une convocation du ou des concerné(s) afin de régler les soucis en veillant à rester impartial. Un irrespect de ces règles pourrait mener à des sanctions internes, voire à un dépôt de plainte selon l'importance des faits.
+Tout soucis concernant un membre, quel que soit son statut, ne pouvant être résolu de manière saine et impactant l'Association devra être signalé au Conseil d'Administration qui statuera sur une convocation du ou des concerné(s) afin de régler les soucis en veillant à rester impartial. Un irrespect de ces règles pourrait mener à des sanctions internes, voire à un dépôt de plainte selon l'importance des faits.
 
 
 ---
