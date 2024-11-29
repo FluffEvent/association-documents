@@ -200,8 +200,7 @@ Un participant refusant de donner son accord, pourrait lui voir limiter les acc�
 lors d'événements de groupe.
 
 Les image photos et vidéos serviront uniquement dans le but de la communication de l'Association et des projets qu'elle soutiendra ayant un rapport avec ses activités.  
-Toute demande de rectification de ces données peut être par la suite demandée pour ne plus  
-accorder ce droit à l’image sur les autres publications futures de l’association.
+Toute demande de rectification de ces données peut être par la suite demandée pour ne plus accorder ce droit à l’image sur les autres publications futures de l’association.
 
 
 ## Article 13 - Sécurité et responsabilité
