@@ -165,21 +165,19 @@ L'Association ne touchera aucune prime ou pourcentage des ventes réalisés par 
 
 Des données personnelles peuvent être recueillies avec l’accord des signataires lors de la signature de certains documents, tel que :
 
-\- la demande d’adhésion à l’association.
-\- la signature de la charte du bénévole.
-\- de l’inscription de participants à des événements.
-\- la demande d’autorisation de droit à l’image/voix.
+\- la demande d’adhésion à l’association.  
+\- la signature de la charte du bénévole.  
+\- de l’inscription de participants à des événements.  
+\- la demande d’autorisation de droit à l’image/voix.  
 \- l’autorisation de porter une fursuit selon les autorisations accordées à l’association par les pouvoirs publiques
 
 Seuls les membres du bureau administratif de l’association ont accès à la liste de ses données uniquement pour les services administratifs de l’association et ne peuvent les transmettre en dehors des membres du bureau.
 
-En aucun cas, ces données ne seront cédées ou vendues à des tiers, sauf dans le cas d’une  
-demande spécifique supplémentaire envers les signataires.
+En aucun cas, ces données ne seront cédées ou vendues à des tiers, sauf dans le cas d’une demande spécifique supplémentaire envers les signataires.
 
 Ces données sont recueillies en vue de tenir à jour les fichiers de l’association selon leurs utilisations spécifiques. Les données sont stockées sous format papier et/ou numérique selon leurs utilisations.
 
-L’association fait en sorte de garantir la protection et la confidentialité de ces données. En cas de fuites de ces données, l’association s’engage à vous en informer dans les plus brefs délais et d’en informer les autorités compétentes, tel que la CNIL, sur la gestion des données  
-personnelles selon la loi française.
+L’association fait en sorte de garantir la protection et la confidentialité de ces données. En cas de fuites de ces données, l’association s’engage à vous en informer dans les plus brefs délais et d’en informer les autorités compétentes, tel que la CNIL, sur la gestion des données personnelles selon la loi française.
 
 Le responsable des traitements et stockage de ces données est : David Moncenis, pouvant être contacté au 06.51.58.22.86 dans le cadre de l’administration du Fluff Event.
 
