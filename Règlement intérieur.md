@@ -95,8 +95,7 @@ Les membres présents votent à main levée sauf pour élire les membres du Cons
 2\. Vote par procuration :  
 Comme indiqué à l’article « 11 » des Statuts, si un membre de l’Association ne peut assister personnellement à une Assemblée, il peut s’y faire représenter par un mandataire dans les conditions indiquées audit article. Un document de procuration est à disposition et à transmettre au Conseil d'Administration au minimum 3 jours avant la prochaine Assemblée, lors de l'envoi par mail de l'invitation à l'Assemblé Générale.
 
-3\. Vote des membres par visioconférence :
-
+3\. Vote des membres par visioconférence :  
 Dans le cas où un membre est autorisé à participer et voter par visioconférence lors d'une Assemblée Générale. Il votera comme tout le monde à main levée ou par message écrit. Et lors des votes à bulletin secret, il transmettra son vote par message privé à un membre qu’il aura désigné.
 
 
