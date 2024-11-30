@@ -1,10 +1,10 @@
-# Conseil d'Administration de l'Association "Fluff Event"
+# Conseil d'Administration de l'Association Fluff Event
 
 _Mis à jour le 30 novembre 2024._
 
-Le Conseil d'Administration est l'organe décisionnel administratif de l'Association "Fluff Event".
+Le Conseil d'Administration est l'organe décisionnel administratif de l'Association Fluff Event.
 
-Au 19 août 2024, le Conseil d'Administration compte 7 membres.
+Au 30 novembre 2024, le Conseil d'Administration compte 7 membres.
 
 
 ---
