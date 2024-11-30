@@ -45,29 +45,29 @@ Suite à l'Assemblée Générale Ordinaire du 18 août 2024, la composition du C
 <span></span>
 
 - **Loulou**
-  - Membre réélu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
+  - Membre élu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
   - Mandaté jusqu'au 18 août 2026.
 
 <span></span>
 
 - **Matiboux**
-  - Membre réélu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
+  - Membre élu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
   - Mandaté jusqu'au 18 août 2026.
 
 <span></span>
 
 - **Potit Cerf**
-  - Membre réélu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
+  - Membre élu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
   - Mandaté jusqu'au 18 août 2026.
 
 <span></span>
 
 - **Vadror**
-  - Membre réélu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
+  - Membre élu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
   - Mandaté jusqu'au 18 août 2026.
 
 <span></span>
 
 - **Yann**
-  - Membre réélu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
+  - Membre élu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
   - Mandaté jusqu'au 18 août 2026.
