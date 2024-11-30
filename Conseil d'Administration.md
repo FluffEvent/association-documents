@@ -1,42 +1,73 @@
-# Conseil d'Administration de l’Association “Fluff Event“
+# Conseil d'Administration de l'Association "Fluff Event"
 
-_Mis à jour le 18 août 2024._
+_Mis à jour le 30 novembre 2024._
 
 Le Conseil d'Administration est l'organe décisionnel administratif de l'Association "Fluff Event".
+
+Au 19 août 2024, le Conseil d'Administration compte 7 membres.
+
 
 ---
 
 ```mermaid
 graph TB
-  FE[/Fluff Event\]
-  FE --> CA{{Conseil d'Administration}}
 
-  CA --- Fluffy[Fluffy Tail]
-  CA --- Phil[Phil]
-  CA --- Loulou[Loulou]
-  CA --- Matiboux[Matiboux]
-  CA --- Potit[Potit Cerf]
-  CA --- Vadror[Vadror]
-  CA --- Yann[Yann]
+CA{{"Conseil d'Administration de<br/>l'Association Fluff Event"}}
+
+CA --- Fluffy[Fluffy Tail]
+CA --- Phil[Phil]
+CA --- Loulou[Loulou]
+CA --- Matiboux[Matiboux]
+CA --- Potit[Potit Cerf]
+CA --- Vadror[Vadror]
+CA --- Yann[Yann]
 ```
 
 
 ---
 
-**Situation au 18 août 2024**
+**Situation au 19 août 2024**
 
-Suite à l’Assemblée Générale Ordinaire du 18 août 2024, les membres du Conseil d'Administration sont :
+Suite à l'Assemblée Générale Ordinaire du 18 août 2024, la composition du Conseil d'Administration est la suivante :
 
-\- **Fluffy Tail**, membre élu le 5 avril 2023, renouvelé le 18 août 2024, mandaté jusqu'au 18 août 2026.
+- **Fluffy Tail**
+  - Membre fondateur de l'Association.
+  - Membre réélu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
+  - Mandaté jusqu'au 18 août 2026.
 
-\- **Phil**, membre élu le 5 avril 2023, mandaté jusqu'au 5 avril 2025.
+<span></span>
 
-\- **Loulou**, membre élu le 18 août 2024, mandaté jusqu'au 18 août 2026.
+- **Phil**
+  - Membre fondateur de l'Association.
+  - Membre élu le 5 avril 2023 par l'Assemblée Générale Constitutive du 5 avril 2023.
+  - Mandaté jusqu'au 5 avril 2025.
 
-\- **Matiboux**, membre élu le 18 août 2024, mandaté jusqu'au 18 août 2026.
+<span></span>
 
-\- **Potit Cerf**, membre élu le 18 août 2024, mandaté jusqu'au 18 août 2026.
+- **Loulou**
+  - Membre réélu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
+  - Mandaté jusqu'au 18 août 2026.
 
-\- **Vadror**, membre élu le 18 août 2024, mandaté jusqu'au 18 août 2026.
+<span></span>
 
-\- **Yann**, membre élu le 18 août 2024, mandaté jusqu'au 18 août 2026.
+- **Matiboux**
+  - Membre réélu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
+  - Mandaté jusqu'au 18 août 2026.
+
+<span></span>
+
+- **Potit Cerf**
+  - Membre réélu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
+  - Mandaté jusqu'au 18 août 2026.
+
+<span></span>
+
+- **Vadror**
+  - Membre réélu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
+  - Mandaté jusqu'au 18 août 2026.
+
+<span></span>
+
+- **Yann**
+  - Membre réélu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
+  - Mandaté jusqu'au 18 août 2026.
