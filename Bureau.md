@@ -1,10 +1,10 @@
-# Bureau de l'Association "Fluff Event"
+# Bureau de l'Association Fluff Event
 
 _Mis à jour le 30 novembre 2024._
 
-Le Bureau est l'organe exécutif administratif de l'Association "Fluff Event".
+Le Bureau est l'organe exécutif administratif de l'Association Fluff Event.
 
-Au 19 août 2024, le Bureau compte 2 membres.
+Au 30 novembre 2024, le Bureau compte 2 membres.
 
 
 ---
