@@ -247,4 +247,4 @@ Signatures du président du Conseil d'Administration :
 > Date : 23/11/2024  
 > Signature :
 > 
-> _\[ Signature David MONCENIS-CHONCHON (président) \]_
+> \[\[ Signature David MONCENIS-CHONCHON (président) \]\]
