@@ -1,11 +1,11 @@
 # Statuts de l'Association Fluff Event
 
-## ARTICLE PREMIER - NOM
+## Article Premier - NOM
 
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1<sup>er</sup> juillet 1901 et le décret du 16 août 1901, ayant pour titre : Fluff Event
 
 
-## ARTICLE 2 - BUT OBJET
+## Article 2 - BUT OBJET
 
 Cette association a pour objet de promouvoir la découverte et la passion de l’Anthropomorphisme au travers de l’art, de l’organisation et de la réalisation d’événements, qu’ils soient festifs, culturels, artistiques ou intellectuels, et que cela soit dans un cadre public ou privé.
 
@@ -18,18 +18,18 @@ L’association peut être amenée à collecter de quoi se financer via :
 - etc...
 
 
-## ARTICLE 3 - SIÈGE SOCIAL 
+## Article 3 - SIÈGE SOCIAL 
 
 Le siège social est fixé au 230 rue Albert Reynier, 38140 Izeaux.  
 Il pourra être transféré par simple décision du Conseil d'Administration. Les statuts de l’association sont mis à jour en conséquence et l’Assemblée Générale est tenue informée de toute modification.
 
 
-## ARTICLE 4 - DUREE
+## Article 4 - DUREE
 
 La durée de l’association est illimitée.
 
 
-## ARTICLE 5 - COMPOSITION 
+## Article 5 - COMPOSITION 
 
 L'association se compose de :
 
@@ -39,7 +39,7 @@ c\) Adhérents d'Honneur : membres rendant ou ayant rendu des services signalés
 d\) Adhérents temporaires : membres qui rejoignent l'association sur une durée limitée définie par le Règlement Intérieur de chaque événement.
 
 
-## ARTICLE 6 - ADMISSION
+## Article 6 - ADMISSION
 
 Le processus et les conditions d’admission sont définis dans le Règlement Intérieur de l’Association.
 
@@ -50,7 +50,7 @@ Les demandes d’admissions sont étudiées par le Conseil d’Administration qu
 Les membres admis doivent prendre en compte et accepter, sans réserve, les présents statuts ainsi que le Règlement Intérieur de l'Association.
 
 
-## ARTICLE 7 - MEMBRES – COTISATIONS
+## Article 7 - MEMBRES – COTISATIONS
 
 Sont Adhérents ceux à jour de leur cotisation annuelle telle que définie dans le Règlement Intérieur de l’Association.
 
@@ -65,7 +65,7 @@ Composé de : David Moncenis et Philippe Moncenis
 Seuls les membres à jour du paiement de leur cotisation à l’exception des Adhérents d'Honneur auront le pouvoir de voter et participer activement lors des Assemblées Générales Ordinaires et Extraordinaires.
 
 
-## ARTICLE 8 - RADIATIONS 
+## Article 8 - RADIATIONS 
 
 La qualité de membre se perd par :
 
@@ -80,14 +80,14 @@ d\) Le non-respect des présents statuts et du Règlement Intérieur, après mis
 La décision d’exclusion est notifiée au membre exclu par lettre recommandée ou e-mail avec accusé de réception dans les huit jours suivant la décision du Conseil d’Administration.
 
 
-## ARTICLE 9 - AFFILIATION
+## Article 9 - AFFILIATION
 
 La présente Association n’a aucune affiliation ni adhésion.
 
 Elle peut adhérer à d’autres associations, fédérations ou regroupements par décision du Conseil d'Administration qui sera soumis à validation de la prochaine Assemblée Générale.
 
 
-## ARTICLE 10 - RESSOURCES 
+## Article 10 - RESSOURCES 
 
 Les ressources de l'Association comprennent :
 
@@ -98,7 +98,7 @@ Les ressources de l'Association comprennent :
 L’Association pourrait faire de la vente et location de produits, produits achetés ou réalisés ou achetés par l’Association ; ainsi que vendre de la prestation de services, tels que les animations, déambulations et spectacles et la participation ou organisation d'événements.
 
 
-## ARTICLE 11 - ASSEMBLEE GENERALE ORDINAIRE
+## Article 11 - ASSEMBLEE GENERALE ORDINAIRE
 
 L'Assemblée Générale ordinaire comprend tous les membres de l'association à l’exception des adhérents temporaires. Les statuts prévoient que les membres de l'Association qui ne sont pas à jour dans leurs cotisations ne peuvent pas participer aux votes lors de l'Assemblée Générale.
 
@@ -129,7 +129,7 @@ Les élections des membres du Conseil d’Administration se font lors de l’ass
 Les décisions des Assemblées Générales s’imposent à tous les membres, y compris absents ou représentés.
 
 
-## ARTICLE 12 - ASSEMBLEE GENERALE EXTRAORDINAIRE 
+## Article 12 - ASSEMBLEE GENERALE EXTRAORDINAIRE 
 
 Sur la demande de la moitié plus un des adhérents, à l’exception des adhérents temporaires, ou par 4 membres-fondateurs ou de la moitié plus un des membres du Conseil d'Administration, le Président peut convoquer une Assemblée Générale Extraordinaire, suivant les modalités prévues aux présents statuts et uniquement pour modification des statuts, en cas d'un événement exceptionnel, passé ou possible, pour l'association ou de sa dissolution.
 
@@ -138,7 +138,7 @@ Les modalités de convocation sont les mêmes que pour l’Assemblée Générale
 Les délibérations sont prises à la majorité relative des membres présents ou représentés.
 
 
-## ARTICLE 13 - CONSEIL D'ADMINISTRATION
+## Article 13 - CONSEIL D'ADMINISTRATION
 
 L'Association est dirigée par un Conseil d'Administration de 2 membres au minimum. Élu pour deux années par l'Assemblée Générale. Les membres sont rééligibles autant de fois qu’ils le souhaitent.
 
@@ -152,7 +152,7 @@ Le Conseil d'Administration se réunit au moins une fois tous les ans, sur convo
 
 Les décisions sont prises à 66% des voix du conseil d’administration. En dessous, la voix du Président est prépondérante.
 
-## ARTICLE 14 - LE BUREAU 
+## Article 14 - LE BUREAU 
 
 Le Conseil d'Administration choisit parmi ses membres le composant un bureau composé de :
 
@@ -165,28 +165,28 @@ Le Conseil d'Administration choisit parmi ses membres le composant un bureau com
 Les fonctions de président et de trésorier ne sont pas cumulables.
 
 
-## ARTICLE 15 - INDEMNITES
+## Article 15 - INDEMNITES
 
 Toutes les fonctions, y compris celles des membres du conseil d’administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l’accomplissement de leur mandat et de leur mission sont remboursés sur la production de justificatifs dans la limite des lois en vigueur.
 
 Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 
 
-## ARTICLE 16 - REGLEMENT INTERIEUR 
+## Article 16 - REGLEMENT INTERIEUR 
 
 Un règlement intérieur peut être établi par le conseil d'administration, qui le fait alors approuver par l'assemblée générale. La mise à jour du règlement intérieur est communiquée aux membres de l’Association via les moyens de communication adaptés.
 
 Ce règlement éventuel est destiné à fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association. Cela inclut de définir les missions et responsabilités des membres et bénévoles engagés dans le fonctionnement administratif et logistique de l’association, les frais de cotisations, la gestion du matériel.
 
 
-## ARTICLE 17 - DISSOLUTION 
+## Article 17 - DISSOLUTION 
 
 En cas de dissolution prononcée selon les modalités prévues à l’article 12, un ou plusieurs liquidateurs sont nommés par le conseil d'administration, et l'actif net, s'il y a lieu, est dévolu conformément aux décisions de l’assemblée générale extraordinaire qui statue sur la dissolution. Si actif il y a, celui-ci sera dévolu à une association ayant des buts similaires.
 
 L’actif net ne peut être dévolu à un membre de l’association, même partiellement, sauf reprise d’un apport.
 
 
-## ARTICLE 18 - LIBERALITES
+## Article 18 - LIBERALITES
 
 Le rapport et les comptes annuels, tels que définis à l’article 11 (y compris ceux des comités locaux) sont adressés chaque année au Préfet du département.  
 L’association s’engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l’emploi des libéralités qu’elle serait autorisée à recevoir, à laisser visiter ses établissements par les représentants de ces autorités compétentes et à leur rendre compte du fonctionnement desdits établissements.
