@@ -1,4 +1,4 @@
-# Statuts de l’Association "Fluff Event"
+# Statuts de l'Association Fluff Event
 
 ## ARTICLE PREMIER - NOM
 
@@ -24,7 +24,7 @@ Le siège social est fixé au 230 rue Albert Reynier, 38140 Izeaux.
 Il pourra être transféré par simple décision du Conseil d'Administration. Les statuts de l’association sont mis à jour en conséquence et l’Assemblée Générale est tenue informée de toute modification.
 
 
-## Article 4 - DUREE
+## ARTICLE 4 - DUREE
 
 La durée de l’association est illimitée.
 
@@ -186,7 +186,7 @@ En cas de dissolution prononcée selon les modalités prévues à l’article 12
 L’actif net ne peut être dévolu à un membre de l’association, même partiellement, sauf reprise d’un apport.
 
 
-## Article 18 - LIBERALITES
+## ARTICLE 18 - LIBERALITES
 
 Le rapport et les comptes annuels, tels que définis à l’article 11 (y compris ceux des comités locaux) sont adressés chaque année au Préfet du département.  
 L’association s’engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l’emploi des libéralités qu’elle serait autorisée à recevoir, à laisser visiter ses établissements par les représentants de ces autorités compétentes et à leur rendre compte du fonctionnement desdits établissements.
