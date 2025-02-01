@@ -1,4 +1,4 @@
-# Statuts de l'Association Fluff Event
+# Statuts de l'Association "Fluff Event"
 
 ## Article Premier – NOM
 
@@ -116,7 +116,7 @@ Sont abordés en priorité les points inscrits à l'ordre du jour ainsi que la r
 
 Chaque membre de l'Association présent à une Assemblée possède une voix lors des votes.
 
-Si un membre de l'association ne peut assister personnellement à une assemblée, il peut s'y faire représenter par un membre mandataire. La condition à remplir est de remplir le document de procuration “Pouvoir de représentation assemblée générale association loi 1901” mis à disposition, et de la transmettre au Conseil d'Administration par e-mail, au moins 3 jours avant la prochaine assemblée, lors de l'envoi par mail de l'invitation à l'Assemblée générale.
+Si un membre de l'Association ne peut assister personnellement à une assemblée, il peut s'y faire représenter par un membre mandataire. La condition à remplir est de remplir le document de procuration "Pouvoir de représentation assemblée générale association loi 1901" mis à disposition, et de la transmettre au Conseil d'Administration par e-mail, au moins 3 jours avant la prochaine assemblée, lors de l'envoi par mail de l'invitation à l'Assemblée générale.
 
 Un membre ne peut pas représenter plus d'un (1) membre de l'Association à la fois lors d'une Assemblée. Un membre mandataire ayant reçu la procuration d'un autre membre de l'Association dispose alors de deux voix lors des votes : la sienne et celle du membre qu'il représente.
 
