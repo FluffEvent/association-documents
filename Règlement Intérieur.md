@@ -1,6 +1,6 @@
 # Règlement intérieur de l'Association "Fluff Event"
 
-Règlement Intérieur écrit et validé par le Conseil d'Administration du Fluff Event
+Règlement Intérieur écrit et validé par le Conseil d'Administration du Fluff Event.
 
 Ce Règlement Intérieur complète et précise les Statuts de l'Association Fluff Event ainsi que différents points spécifiques supplémentaires.  
 Tout adhérent devra en prendre connaissance et s'y soumettre afin de permettre une meilleure cohésion de travail et de vie associative.  
@@ -11,13 +11,11 @@ Ce texte présent du Règlement Intérieur pourra être modifié par le Conseil 
 
 Tout nouveau membre doit être majeur (ou émancipé et avoir 16 ans au minimum) et doit soutenir les objectifs et volontés de l'Association à travers la découverte et la passion de l'Anthropomorphisme. Que cela soit envers la communauté du Fandom Furry, diverses autres communautés de passionnés ou envers le « Grand Public ».
 
-Les personnes désirant adhérer doivent formuler leur souhait et leur motivation afin de rejoindre l'Association. Un bulletin d’adhésion leur sera alors adressé ainsi que la demande de participation à la cotisation annuelle. Les différents groupes de discussions,  
-d'informations et de partages pour les membres de l'Association leur seront communiqués dès la réception de la cotisation annuelle.
+Les personnes désirant adhérer doivent formuler leur souhait et leur motivation afin de rejoindre l'Association. Un bulletin d’adhésion leur sera alors adressé ainsi que la demande de participation à la cotisation annuelle. Les différents groupes de discussions, d'informations et de partages pour les membres de l'Association leur seront communiqués dès la réception de la cotisation annuelle.
 
 Les Adhérents d'Honneur sont invités par le Conseil d'Administration à rejoindre l'Association et sont exemptés de cotisation pour l'année en cours, mais peuvent tout de même y participer s'ils le souhaitent. Ils ont généralement réalisé des services signalés à l'Association.
 
-Si un membre du Conseil d'Administration a une objection à formuler sur une admission d'un membre, une réunion sera réalisée entre les membres du Conseil d'Administration et un vote sera réalisé en privé sur le refus ou non de cette admission ; tout en  
-restant objectif, non-discriminatoire et favorisant avant tout le bien-être de l'Association.
+Si un membre du Conseil d'Administration a une objection à formuler sur une admission d'un membre, une réunion sera réalisée entre les membres du Conseil d'Administration et un vote sera réalisé en privé sur le refus ou non de cette admission ; tout en restant objectif, non-discriminatoire et favorisant avant tout le bien-être de l'Association.
 
 Toute nouvelle adhésion d’un membre doit être notifiée au Conseil d’Administration par courrier, voie électronique ou document numérique dans les plus brefs délais.  
 Ce dernier pouvant, s’il le souhaite, émettre un véto dans les conditions prévues aux statuts.
@@ -25,8 +23,7 @@ Ce dernier pouvant, s’il le souhaite, émettre un véto dans les conditions pr
 
 ## Article 2 - Les Adhérents Temporaires
 
-Lors de certains événements organisés par l'Association ou en tant que partenaire à d'autres  
-structures, le statut de membre temporaire peut être attribué aux non-membres permanents de l'Association.
+Lors de certains événements organisés par l'Association ou en tant que partenaire à d'autres structures, le statut de membre temporaire peut être attribué aux non-membres permanents de l'Association.
 
 Les dates et la durée de ce statut seront stipulées dans le document concernant l'événement et sera signé et daté par la personne en question.
 
@@ -61,10 +58,10 @@ Si des frais ont été engagés pour le paiement de sa cotisation ou contributio
 
 2\. Comme indiqué à l’article « 8 » des Statuts, l’exclusion d’un membre peut être prononcée par le Conseil, pour motif grave, tel que :
 
-\- une condamnation pénale pour crime et délit, harcèlement et/ou abus envers des personnes fragiles  
+\- une condamnation pénale pour crime et délit, harcèlement et/ou abus envers des personnes fragiles.  
 \- toute action de nature à porter préjudice, directement ou indirectement, aux activités et éthiques de l'Association ou à sa réputation.  
-\- le non-respect du Règlement Intérieur  
-\- d’autres cas particuliers à une situation pouvant entraîner une réaction proportionnelle et nécessaire de l'Association
+\- le non-respect du Règlement Intérieur.  
+\- d’autres cas particuliers à une situation pouvant entraîner une réaction proportionnelle et nécessaire de l'Association.
 
 En tout état de cause, l’intéressé doit être mis en mesure de présenter sa défense, préalablement à la décision d’exclusion. La décision d’exclusion est adoptée par le Conseil d'Administration statuant à la majorité des deux tiers des membres présents (la voix du président étant prépondérante).
 
@@ -72,8 +69,7 @@ Pour rappel : L’intéressé est appelé à fournir des explications écrites d
 
 La décision d’exclusion, d'annulation ou changement de la sanction sera notifiée au membre exclu par lettre recommandée ou mail avec accusé de réception dans les quinze jours suivant la décision du Conseil, après que le membre ait été entendu afin de fournir des explications écrites, voire orales par la suite.
 
-Dans le cas de trouble(s) léger(s), de non-respects envers les membres ou d'un accident exceptionnel, une exclusion temporaire ou partielle peut être décidée en substitution. Tout en  
-sachant que de simples rappels à l'ordre peuvent être déclarés sans suite si l'adhérent les prend en considération immédiatement.
+Dans le cas de trouble(s) léger(s), de non-respects envers les membres ou d'un accident exceptionnel, une exclusion temporaire ou partielle peut être décidée en substitution. Tout en sachant que de simples rappels à l'ordre peuvent être déclarés sans suite si l'adhérent les prend en considération immédiatement.
 
 3\. En cas de décès d’un membre, les héritiers ou les légataires ne peuvent prétendre à un quelconque maintien dans l'Association.
 
@@ -88,13 +84,16 @@ Le Conseil d'Administration peut inviter à chacune de ses réunions n'importe q
 
 Comme stipulé dans les statuts, l’Assemblée Générale se réunit une fois dans l’année. Les membres seront informés et invités par leurs adresses électroniques, qu’ils auront fournies lors de leur adhésion à l'Association., au minimum 15 jours avant la date de l’Assemblée Générale.
 
-1\. Vote des membres présents :  
+1\. Vote des membres présents :
+
 Les membres présents votent à main levée sauf pour élire les membres du Conseil d'Administration qui se fera à bulletin secret si quelqu’un le réclame. Toutefois, un scrutin secret peut être demandé par le Conseil d'Administration pour certains votes.
 
-2\. Vote par procuration :  
+2\. Vote par procuration :
+
 Comme indiqué à l’article « 11 » des Statuts, si un membre de l'Association ne peut assister personnellement à une Assemblée, il peut s’y faire représenter par un mandataire dans les conditions indiquées audit article. Un document de procuration est à disposition et à transmettre au Conseil d'Administration au minimum 3 jours avant la prochaine Assemblée, lors de l'envoi par mail de l'invitation à l'Assemblé Générale.
 
-3\. Vote des membres par visioconférence :  
+3\. Vote des membres par visioconférence :
+
 Dans le cas où un membre est autorisé à participer et voter par visioconférence lors d'une Assemblée Générale. Il votera comme tout le monde à main levée ou par message écrit. Et lors des votes à bulletin secret, il transmettra son vote par message privé à un membre qu’il aura désigné.
 
 
@@ -106,16 +105,14 @@ L'Association ne remboursera en aucun cas les frais non validés au préalable d
 
 Dans la mesure du possible, l'Association ne remboursera pas de frais dans le cadre de ses activités si ces frais sont supérieurs aux recettes réalisées ou ressources disponibles. Les remboursements et indemnités liés dans le cadre des activités de l'Association sont majorés selon les règlements en vigueur.
 
-Une mission d'achat peut être confiée à un membre de l'Association. Il devra alors établir une  
-note de frais avec toutes les pièces justificatives concernant les achats réalisés pour l'Association ne pouvant excéder la somme qui était attribuée à cette mission. Une facture sera demandée au nom du Fluff Event pour chaque note de frais établie.
+Une mission d'achat peut être confiée à un membre de l'Association. Il devra alors établir une note de frais avec toutes les pièces justificatives concernant les achats réalisés pour l'Association ne pouvant excéder la somme qui était attribuée à cette mission. Une facture sera demandée au nom du Fluff Event pour chaque note de frais établie.
 
 Le Président et le Trésorier de l'Association ont accès directement au compte bancaire de l'Association afin qu'ils gèrent avec simplicité leurs propres remboursements personnels pour les achats en ligne ou sur place, tout en respectant les mêmes règles pour les notes de frais de tous les membres.
 
 
 ## Article 8 - Matériel Associatif, Prêté et Loué
 
-Tout achat réalisé avec les ressources de l'Association lui appartiendra et sera noté dans le registre des 'Propriétés de l'Association'. Toute utilisation incorrecte d'un membre provoquant  
-une dégradation du matériel lui sera imputée et il devra rembourser ou racheter son équivalent neuf (sauf contre-indication du Conseil Administratif).
+Tout achat réalisé avec les ressources de l'Association lui appartiendra et sera noté dans le registre des 'Propriétés de l'Association'. Toute utilisation incorrecte d'un membre provoquant une dégradation du matériel lui sera imputée et il devra rembourser ou racheter son équivalent neuf (sauf contre-indication du Conseil Administratif).
 
 Le matériel sera stocké dans des locaux appartenant à l'Association si elle en possède selon le volume de stockage disponible. Sinon, il sera stocké selon les possibilités et responsabilités des membres qui en assureront la garde. Ils s'engagent à rembourser ou racheter son équivalent si dégradation du matériel par des conditions de stockage incorrect est observé.
 
@@ -136,8 +133,7 @@ Des responsables de Pôles d'Activités peuvent être désignés afin de répart
 
 Un bénévole n'a pas besoin d'être membre de l'Association, mais doit respecter ses statuts, son règlement intérieur et prendre en considération qu’il la représente à travers ses missions.
 
-Un adhérent de l'Association n'a aucune obligation d'être bénévole lors d'un événement, mais  
-ne pourra pas avoir accès aux informations, matériel et zones accessibles aux bénévoles.
+Un adhérent de l'Association n'a aucune obligation d'être bénévole lors d'un événement, mais ne pourra pas avoir accès aux informations, matériel et zones accessibles aux bénévoles.
 
 Un bénévole n’aura pas accès aux avantages et droits des membres permanents, mais pourra bénéficier d’autres avantages spécifiques aux événements réalisés.
 
@@ -151,7 +147,7 @@ L'Association pourra réaliser ses propres événements payants ou non, tel que 
 Selon les activités/événements et règlements en vigueur, l'Association peut :
 
 \- Tenir une buvette publique (avec les autorisations préalables et les limites imposées) afin de se financer par la vente de ses produits consommables.  
-\- Réaliser des repas/buffets (avec les autorisations préalables, règles d'hygiène, informations  
+\- Réaliser des repas/buffets (avec les autorisations préalables, règles d'hygiène, informations.  
 sur les allergènes) pour les participants s'étant préalablement inscrits.
 \- Réaliser la vente et locations de produits non-alimentaires, achetés ou réalisés par ses membres, tout en respectant les lois en vigueur afin de financer l'Association.
 
@@ -192,8 +188,7 @@ Les données sont conservées :
 
 Lors des activités et événements réalisés par l'Association, ou en partenariat d'une autre structure, une autorisation de droit à l'image/voix peut être demandée.
 
-Un participant refusant de donner son accord, pourrait lui voir limiter les accès et activités prévues  
-lors d'événements de groupe.
+Un participant refusant de donner son accord, pourrait lui voir limiter les accès et activités prévues lors d'événements de groupe.
 
 Les image photos et vidéos serviront uniquement dans le but de la communication de l'Association et des projets qu'elle soutiendra ayant un rapport avec ses activités.  
 Toute demande de rectification de ces données peut être par la suite demandée pour ne plus accorder ce droit à l’image sur les autres publications futures de l'Association.
