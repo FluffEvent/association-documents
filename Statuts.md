@@ -194,18 +194,20 @@ L’association s’engage à présenter ses registres et pièces de comptabilit
 
 ---
 
-Les présents statuts ont été votés lors de l’Assemblée Générale du 05/04/2023 à Izeaux. Ils se substituent à toute version antérieure des statuts et sont valables sans délai.
+Les présents statuts ont été votés lors de l'Assemblée Générale du 18/08/2024. Ils se substituent à toute version antérieure des statuts et sont valables sans délai.
 
-Signatures des deux représentants :  
-_\[ Signature David Moncenis (président) \]_  
-_\[ Signature Philippe Moncenis (trésorier) \]_
+Signatures des deux représentants de l'Association :
 
-Nom et Prénom : MONCENIS DAVID  
-Fonction au sein de l'association : PRÉSIDENT  
-Date : 05/04/2023  
-Signature : _\[ Signature David Moncenis (président) \]_
+> Nom complet : David MONCENIS-CHONCHON  
+> Fonction dans l'Association : Président de l'Association  
+> Date : 23/11/2024  
+> Signature :
+> 
+> \[\[ Signature de David MONCENIS-CHONCHON (président) \]\]
 
-Nom et Prénom : MONCENIS Philippe  
-Fonction au sein de l'association : TRÉSORIER  
-Date : 05/04/2023  
-Signature : _\[ Signature Philippe Moncenis (trésorier) \]_
+> Nom complet : Mathieu GUÉRIN    
+> Fonction dans l'Association : Trésorier de l'Association  
+> Date : 23/11/2024  
+> Signature :
+> 
+> \[\[ Signature de Mathieu GUÉRIN (trésorier) \]\]

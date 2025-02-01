@@ -231,12 +231,20 @@ Tout soucis concernant un membre, quel que soit son statut, ne pouvant être ré
 
 La convivialité, le partage, l’union et la famille font partie des valeurs de l'Association.  
 En vous remerciant de participer à cette aventure tous ensemble.  
-David Moncenis, Président du Fluff Event  
+_David MONCENIS-CHONCHON, Président du Fluff Event_
+
 Fluff Event, N° RNA : W381027566  
 Association loi 1901 déclaré à la préfecture de l'Isère  
 Siège social : 230 rue Albert reynier - 38140 Izeaux  
 fluffevent@gmail.com
 
-Version 1 mise en application le 12/04/2023
+Version mise en application le 24/11/2024.
 
-_\[ Signature David Moncenis (président) \]_
+Signature du président du Conseil d'Administration :
+
+> Nom complet : David MONCENIS-CHONCHON  
+> Fonction dans l'Association : Président du Conseil d'Administration  
+> Date : 23/11/2024  
+> Signature :
+> 
+> \[\[ Signature de David MONCENIS-CHONCHON (président) \]\]
