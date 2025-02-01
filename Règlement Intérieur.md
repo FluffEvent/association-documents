@@ -1,4 +1,4 @@
-# Règlement intérieur de l'Association "Fluff Event"
+# Règlement Intérieur de l'Association "Fluff Event"
 
 Règlement Intérieur écrit et validé par le Conseil d'Administration du Fluff Event.
 
