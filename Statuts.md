@@ -152,7 +152,7 @@ Le Conseil d'Administration se réunit au moins une fois tous les ans, sur convo
 
 Les décisions sont prises à 66% des voix du conseil d'administration. En dessous, la voix du Président est prépondérante.
 
-## Article 14 - LE BUREAU
+## Article 14 – LE BUREAU
 
 Le Conseil d'Administration choisit parmi ses membres le composant un bureau composé de :
 
@@ -165,7 +165,7 @@ Le Conseil d'Administration choisit parmi ses membres le composant un bureau com
 Les fonctions de président et de trésorier ne sont pas cumulables.
 
 
-## Article 15 - INDEMNITÉS
+## Article 15 – INDEMNITÉS
 
 Toutes les fonctions, y compris celles des membres du conseil d'administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l'accomplissement de leur mandat et de leur mission sont remboursés sur la production de justificatifs dans la limite des lois en vigueur.
 
