@@ -203,11 +203,11 @@ Signatures des deux représentants de l'Association :
 > Date : 23/11/2024  
 > Signature :
 > 
-> \[\[ Signature David MONCENIS-CHONCHON (président) \]\]
+> \[\[ Signature de David MONCENIS-CHONCHON (président) \]\]
 
 > Nom complet : Mathieu GUÉRIN    
 > Fonction dans l'Association : Trésorier de l'Association  
 > Date : 23/11/2024  
 > Signature :
 > 
-> \[\[ Signature Mathieu GUÉRIN (trésorier) \]\]
+> \[\[ Signature de Mathieu GUÉRIN (trésorier) \]\]
