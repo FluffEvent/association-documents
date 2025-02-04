@@ -25,11 +25,11 @@ Bureau ---|"Trésorier"| Matiboux([Matiboux])
 
 Suite à l'Assemblée Générale Ordinaire du 18 août 2024, la composition du Bureau est la suivante :
 
-- **Fluffy Tail**, à la fonction de **Président**
+- **Fluffy Tail**, à la fonction de **Président**.
   - Membre fondateur de l'Association.
   - Membre élu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
 
 <span></span>
 
-- **Matiboux**, à la fonction de **Trésorier**
+- **Matiboux**, à la fonction de **Trésorier**.
   - Membre élu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
