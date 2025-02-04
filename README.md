@@ -20,5 +20,6 @@ Le site internet de l'association est [fluffevent.fr](https://fluffevent.fr/).
 
 - [Statuts](Statuts.md)
 - [Règlement Intérieur](<Règlement Intérieur.md>)
+- [Conseil d'Administration](<Conseil d'Administration.md>)
 - [Bureau](Bureau.md)
 - [Board](Board.md)
