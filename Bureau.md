@@ -27,7 +27,7 @@ Suite à l'Assemblée Générale Ordinaire du 18 août 2024, la composition du B
 
 - **Fluffy Tail**, à la fonction de **Président**.
   - Membre fondateur de l'Association.
-  - Membre élu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
+  - Membre réélu le 18 août 2024 par l'Assemblée Générale Ordinaire du 18 août 2024.
 
 <span></span>
 
