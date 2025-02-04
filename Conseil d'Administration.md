@@ -14,13 +14,13 @@ graph TB
 
 CA{{"Conseil d'Administration de<br/>l'Association Fluff Event"}}
 
-CA --- Fluffy[Fluffy Tail]
-CA --- Phil[Phil]
-CA --- Loulou[Loulou]
-CA --- Matiboux[Matiboux]
-CA --- Potit[Potit Cerf]
-CA --- Vadror[Vadror]
-CA --- Yann[Yann]
+CA --- Fluffy([Fluffy Tail])
+CA --- Phil([Phil])
+CA --- Loulou([Loulou])
+CA --- Matiboux([Matiboux])
+CA --- Potit([Potit Cerf])
+CA --- Vadror([Vadror])
+CA --- Yann([Yann])
 ```
 
 
