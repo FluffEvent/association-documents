@@ -9,14 +9,18 @@ Il est fondé entre les adhérents aux présents Statuts une association régie 
 
 L'Association a pour objet de promouvoir la découverte et la passion de l'Anthropomorphisme au travers de l'art, de l'organisation et de la réalisation d'événements, qu'ils soient festifs, culturels, artistiques ou intellectuels, et que cela soit dans un cadre public ou privé.
 
-La pratique de l'organisation et de la diffusion francophone d'événements, caritatifs ou non, en relation avec le divertissement et la pratique des jeux vidéo fait également partie des objectifs de l'Association.
+L'Association a également pour objectifs l'organisation et la diffusion d'événements francophones en lien avec le divertissement et les jeux vidéo.
 
-L'Association peut, pour son financement et sa promotion, en lien avec ses activités et objectifs :
+L'Association peut aussi collecter des fonds, notamment lors de ses événements, au profit d'associations ou d'organismes à but non lucratif d'intérêt général. Les sommes collectées pour le compte d'un bénéficiaire lui sont reversées, déduction faite des seuls frais de collecte justifiés.
+
+L'Association peut, à titre accessoire, pour le financement et la promotion de son objet, en lien avec ses activités et objectifs :
 
 \- Tenir des stands lors d'événements de l'Association ou externes à l'Association ;  
 \- Réaliser et vendre des produits dérivés ;  
 \- Vendre des prestations de service ;  
 \- Mener toute autre activité de financement en lien avec son objet.
+
+Les excédents de ces activités sont employés à la réalisation de l'objet de l'Association.
 
 
 ## Article 3 – SIÈGE SOCIAL
@@ -37,7 +41,7 @@ Les membres de l'Association (les Membres), qui composent l'Association, sont r�
 
 1\. Les Membres fondateurs : membres créateurs et initiaux de l'Association ;
 
-2\. Les Membres adhérents : membres à jour de leur cotisation annuelle, selon les modalités définies dans le Règlement Intérieur ;
+2\. Les Membres adhérents : membres tenus de s'acquitter d'une cotisation annuelle, selon les modalités définies dans le Règlement Intérieur ;
 
 3\. Les Membres d'honneur : membres nommés par le Conseil d'Administration selon les modalités définies dans le Règlement Intérieur, reconnus pour leur implication et leur engagement envers l'Association, notamment en ayant rendu des services bénévoles importants à l'Association ;
 
@@ -61,7 +65,7 @@ Les Membres admis doivent prendre en compte et accepter, sans réserve, les pré
 
 ## Article 7 – MEMBRES - COTISATIONS
 
-Sont Membres adhérents les Membres admis et à jour de leur cotisation annuelle telle que définie dans le Règlement Intérieur.
+Sont Membres adhérents les Membres admis, tenus de s'acquitter de la cotisation annuelle telle que définie dans le Règlement Intérieur.
 
 Sont Membres d'honneur les Membres nommés par le Conseil d'Administration et reconnus pour leurs actions envers l'Association. Les Membres d'honneur sont dispensés de l'obligation d'être à jour de leur cotisation annuelle. Ils sont nommés pour une durée déterminée ou indéterminée, selon les modalités définies dans le Règlement Intérieur.
 
@@ -74,7 +78,11 @@ Les Membres fondateurs sont :
 \- David MONCENIS-CHONCHON  
 \- Philippe MONCENIS
 
-Sont Membres en règle, et disposent à ce titre du droit de vote en Assemblée Générale : les Membres adhérents à jour de leur cotisation, les Membres fondateurs et les Membres d'honneur. Les Membres temporaires ne disposent pas du droit de vote en Assemblée Générale.
+Sont Membres en règle, et disposent à ce titre du droit de vote en Assemblée Générale : les Membres adhérents à jour de leur cotisation annuelle, les Membres fondateurs et les Membres d'honneur.
+
+Un Membre adhérent qui n'est pas à jour de sa cotisation annuelle n'est plus considéré comme un Membre en règle et perd le droit de vote en Assemblée Générale. Il retrouve sa qualité de Membre en règle à compter du lendemain du règlement de sa cotisation annuelle. Un Membre titulaire d'un mandat qui n'est plus en règle peut continuer d'exercer ses fonctions pendant deux (2) mois après l'échéance de sa cotisation, puis ses fonctions sont suspendues jusqu'au rétablissement de sa qualité de Membre en règle, sans fin ni prolongation de son mandat.
+
+Les Membres temporaires ne sont pas des Membres en règle et ne disposent pas du droit de vote en Assemblée Générale.
 
 
 ## Article 8 – RADIATIONS
@@ -85,17 +93,39 @@ a) La démission du membre, libre à tout moment et sans préjudice du paiement 
 
 b) Le décès du membre ;
 
-c) Le non-paiement de la cotisation annuelle, pour les Membres adhérents, dans les délais impartis définis dans le Règlement Intérieur. Le Membre adhérent qui n'est plus à jour de sa cotisation ne dispose plus des droits attachés à sa qualité, notamment du droit de vote ; il retrouve cette qualité et ces droits de plein droit à compter du lendemain du règlement de sa cotisation ;
+c) Le non-respect des présents Statuts et du Règlement Intérieur, après mise en demeure restée infructueuse, ou pour motif grave, l'intéressé ayant préalablement été appelé à fournir des explications écrites ou orales, et pouvant se faire assister par la personne de son choix, dans un délai de quinze (15) jours à compter de la notification qui lui en sera faite par le Conseil d'Administration ;
 
-d) Le non-respect des présents Statuts et du Règlement Intérieur, après mise en demeure restée infructueuse ou pour motif grave, l'intéressé ayant préalablement été appelé à fournir des explications écrites ou orales, et pouvant se faire assister par la personne de son choix, dans un délai de quinze jours à compter de la notification qui lui en sera faite par le Conseil d'Administration ;
+d) L'arrivée du terme de la durée pour laquelle un Membre temporaire a été admis ou un Membre d'honneur a été nommé, lorsque cette durée est déterminée.
 
-e) L'arrivée du terme de la durée pour laquelle un Membre temporaire a été admis ou un Membre d'honneur a été nommé, lorsque cette durée est déterminée.
+La perte de la qualité de Membre met fin de plein droit aux fonctions de membre du Conseil d'Administration et du Bureau.
+
+Seuls constituent des motifs graves au sens du point c) ci-dessus les faits suivants, constatés par une décision de justice ou par le Conseil d'Administration dans une décision motivée :
+
+\- le détournement ou l'usage frauduleux des fonds ou des biens de l'Association ;
+
+\- une condamnation pénale, une mise en examen ou des poursuites pénales équivalentes, pour des faits incompatibles avec l'exercice de ses fonctions ou de nature à rompre la confiance qui lui a été accordée ;
+
+\- des violences ou un harcèlement envers une personne dans le cadre de l'Association ou de ses activités ;
+
+\- l'entrave grave et délibérée au fonctionnement de l'Association ou de ses organes, notamment le refus de convoquer un organe, de lui transmettre les comptes ou documents qu'il demande, ou d'exécuter ses décisions.
+
+L'incapacité ou l'inactivité prolongée, qui peut justifier l'exclusion d'un membre du Conseil d'Administration ou du Bureau de ses fonctions, comme prévu aux articles 14.2 et 15.3, est retenue lorsque l'intéressé est dans l'impossibilité d'exercer ses fonctions, quelle qu'en soit la cause, refuse de les exercer ou les voit suspendues en application de l'article 7, et que cette situation remplit trois conditions :
+
+\- elle dure depuis au moins deux (2) mois consécutifs ;
+
+\- pendant cette période, l'organe concerné s'est réuni ou a été consulté au moins deux (2) fois sans que l'intéressé y prenne part ;
+
+\- une mise en demeure écrite est restée, pendant quinze (15) jours, sans réponse justifiant l'indisponibilité de l'intéressé ou y mettant fin. Pour un Président empêché depuis plus de quatre (4) mois, seule une réponse y mettant fin est acceptée.
+
+Le Règlement Intérieur peut prévoir des conditions plus exigeantes, sans pouvoir les alléger.
 
 La décision d'exclusion est prise par le Conseil d'Administration dans les conditions de quorum et de majorité de l'article 14.3 ; le membre concerné, s'il siège au Conseil d'Administration, ne prenant pas part au vote.
 
 La décision d'exclusion est notifiée au membre exclu par écrit, par tout moyen permettant d'en établir la réception, dans les huit jours suivant la décision du Conseil d'Administration et aux modalités définies dans le Règlement Intérieur.
 
-La perte de la qualité de Membre met fin de plein droit aux fonctions de membre du Conseil d'Administration et du Bureau.
+L'exclusion d'un Membre de l'Association est effective immédiatement. L'Assemblée Générale peut l'annuler selon les règles de l'article 13, après avoir appelé l'intéressé et le Conseil d'Administration à fournir des explications écrites ou orales. Elle peut être réunie en Assemblée Générale Extraordinaire à cette fin, dans les conditions de l'article 12.
+
+Un Membre titulaire d'un mandat au sein du Conseil d'Administration ou du Bureau ne peut être exclu de l'Association sur le fondement du point c) qu'une fois son mandat terminé : à son échéance naturelle, à l'issue de l'intérim s'il a lieu, ou après sa révocation ou son exclusion selon les articles 14.2 et 15.3, mais pas pour les mêmes faits que ceux ayant motivé son exclusion de ses fonctions. L'exclusion d'un Membre fondateur de l'Association est soumise à l'Assemblée Générale dans les conditions de l'article 14.2.
 
 
 ## Article 9 – AFFILIATION
@@ -130,7 +160,7 @@ Dans les présents Statuts, sauf précision contraire, "Assemblée Générale" d
 
 L'Assemblée Générale Ordinaire se réunit au minimum une fois dans l'année.
 
-Les membres sont convoqués aux Assemblées Générales par le Président de l'Association, ou son intérimaire désigné selon l'article 15.3, par écrit, au moins quinze (15) jours avant la date fixée et aux modalités définies dans le Règlement Intérieur. L'ordre du jour de l'Assemblée Générale figure sur les convocations. À défaut de convocation par le Président de l'Association ou son intérimaire, ou en cas de vacance de sa fonction sans intérimaire, l'Assemblée Générale est convoquée par le Trésorier ; à défaut, par le Président du Conseil d'Administration.
+Les membres sont convoqués aux Assemblées Générales par le Président de l'Association ou son remplaçant, au sens de l'article 15.6, par écrit, au moins quinze (15) jours avant la date fixée et aux modalités définies dans le Règlement Intérieur. L'ordre du jour de l'Assemblée Générale figure sur les convocations. À défaut de convocation par le Président de l'Association ou son remplaçant, ou en cas de vacance de sa fonction sans remplaçant, l'Assemblée Générale est convoquée par le Trésorier ; à défaut, par le Président du Conseil d'Administration.
 
 L'Assemblée Générale peut être suivie en visioconférence par les membres, aux modalités définies dans le Règlement Intérieur. Les membres qui y participent à distance, par un moyen permettant leur identification, sont réputés présents.
 
@@ -142,12 +172,15 @@ Lors d'une Assemblée Générale Ordinaire, sont abordés dans l'ordre de priori
 \- La modification des Statuts par le vote d'amendements, si ce point figure à l'ordre du jour de la convocation ;  
 \- La ratification du Règlement Intérieur, si établi ou modifié depuis la dernière Assemblée Générale ;  
 \- L'élection et le renouvellement des membres du Bureau, si applicable selon les candidatures et les places vacantes ;  
-\- L'élection et le renouvellement des membres du Conseil d'Administration, si applicable selon les candidatures et les places vacantes.
+\- L'élection et le renouvellement des membres du Conseil d'Administration, si applicable selon les candidatures et les places vacantes ;  
+\- Le point inscrit à la demande des membres, en fin de séance, dans les conditions prévues ci-dessous.
 
 Lors d'une Assemblée Générale Ordinaire, sont en outre obligatoirement abordés les points suivants :
 
 \- L'exposition de la situation morale et de l'activité de l'Association par le Président de l'Association, ainsi que des grandes orientations de l'année à venir, à titre informatif et sans vote ;  
 \- La présentation des bilans annuels de l'Association par le Président de l'Association et le Trésorier (rapport d'activité, bilan financier, compte de résultat et annexes), soumis à l'approbation des membres par un vote.
+
+Au moins un cinquième (1/5) des Membres en règle peuvent demander, avant la clôture de l'ordre du jour, l'inscription d'un seul point supplémentaire, traité en fin de séance d'une Assemblée Générale Ordinaire. Cette demande n'est pas un vote : chaque Membre en règle ne peut la soutenir que pour lui-même, sans procuration. Ce point est traité et voté dans les conditions applicables à son objet, notamment de quorum et de majorité, selon l'article 13. Il ne peut pas porter sur un objet qui ne peut être traité qu'en Assemblée Générale Extraordinaire, ni sur un objet qui exige une convocation ou une information préalable des membres ou de l'intéressé, notamment une modification des Statuts, la dissolution, une révocation ou une exclusion. Il peut porter sur tout autre objet relevant de la compétence de l'Assemblée Générale, notamment l'ouverture d'une place de Membre mandaté du Conseil d'Administration, prévue à l'article 14.1. Les modalités de cette demande sont définies dans le Règlement Intérieur.
 
 Le déroulement des Assemblées Générales est précisé dans le Règlement Intérieur.
 
@@ -168,15 +201,17 @@ Le Président de l'Association convoque une Assemblée Générale Extraordinaire
 
 \- Sur décision du Conseil d'Administration ;
 
-\- À la demande de la moitié plus un des membres de l'Association, à l'exception des Membres temporaires ;
+\- À la demande d'au moins la moitié (1/2) des membres du Conseil d'Administration ;
+
+\- À la demande d'au moins la moitié (1/2) des membres du Bureau ;
 
 \- À la demande de tous les Membres fondateurs ;
 
-\- À la demande de la moitié plus un des membres du Conseil d'Administration ;
+\- À la demande d'au moins un tiers (1/3) des Membres en règle ;
 
-\- À la demande de la moitié plus un des membres du Bureau.
+\- À la demande d'au moins un cinquième (1/5) des Membres en règle, pour examiner l'exclusion d'un Membre de l'Association, d'un membre du Conseil d'Administration ou d'un Membre administratif du Bureau, prévue aux articles 8, 14.2 et 15.3.
 
-Lorsque la convocation fait suite à une demande, elle est adressée dans un délai de trente (30) jours à compter de la réception de la demande écrite ; à défaut, les auteurs de la demande peuvent convoquer eux-mêmes l'Assemblée Générale Extraordinaire.
+Lorsque la convocation fait suite à une demande écrite ou à une décision du Conseil d'Administration, elle est adressée dans un délai de trente (30) jours à compter de la réception de la demande écrite ou de la décision ; à défaut, les auteurs de la demande ou le Conseil d'Administration peuvent convoquer eux-mêmes l'Assemblée Générale Extraordinaire. Les modalités de ces demandes sont définies dans le Règlement Intérieur.
 
 Les Assemblées Générales Extraordinaires et leur convocation sont faites selon les mêmes modalités que pour celles prévues pour les Assemblées Générales, telles que définies à l'article 11 des Statuts, sous réserve des dispositions du présent article. Elles peuvent être tenues le même jour qu'une Assemblée Générale Ordinaire.
 
@@ -185,6 +220,14 @@ Les motifs valables de convocation d'une Assemblée Générale Extraordinaire so
 \- La modification des Statuts ;
 
 \- Pourvoir aux postes vacants du Conseil d'Administration ou du Bureau, dans les cas prévus aux articles 14.2 et 15.3 ;
+
+\- Se prononcer sur la révocation d'un Membre mandaté du Conseil d'Administration ou d'un Membre administratif du Bureau, dans les cas prévus aux articles 14.2 et 15.3 ;
+
+\- Examiner une exclusion, dans les cas prévus aux articles 8, 14.2 et 15.3 ;
+
+\- Décider l'ouverture d'une place de Membre mandaté du Conseil d'Administration, dans le cas prévu à l'article 14.1 ;
+
+\- Ratifier le Règlement Intérieur, dans le cas prévu à l'article 17 ;
 
 \- Statuer dans le cas d'un événement exceptionnel ayant ou pouvant avoir un impact significatif sur l'Association ;
 
@@ -201,23 +244,27 @@ Les règles ci-dessous s'appliquent à chaque type de décision, quelle que soit
 
 Les membres présents ou représentés comprennent ceux qui participent à distance dans les conditions de l'article 11. Les Membres en règle sont comptés à la date de l'Assemblée. Les membres représentés par procuration sont comptés comme présents pour le quorum, et leurs voix, exprimées par leur porteur de procuration, comptent dans les suffrages exprimés et dans les minimums de voix favorables. Tout seuil exprimé en fraction du nombre de Membres en règle est arrondi à l'entier supérieur.
 
-Quorum général : toute décision exige qu'au moins un quart (1/4) des Membres en règle soient présents ou représentés. Si ce quorum n'est pas atteint, une seconde Assemblée est convoquée dans les mêmes formes que la première, notamment quant au préavis prévu à l'article 11, et se tient au plus tard quarante-cinq (45) jours après la première ; elle délibère valablement sur les mêmes points quel que soit le nombre de membres présents ou représentés.
+Quorum général : l'Assemblée Générale ne délibère valablement que si au moins un quart (1/4) des Membres en règle sont présents ou représentés. Si ce quorum n'est pas atteint, une seconde Assemblée est convoquée dans les mêmes formes que la première, notamment quant au préavis prévu à l'article 11, et se tient au plus tard quarante-cinq (45) jours après la première ; elle délibère valablement sur les mêmes points quel que soit le nombre de membres présents ou représentés.
 
-1\. Approbation (comptes et rapports, ratification du Règlement Intérieur, autres décisions ordinaires) : sans minimum de voix favorables. En cas de partage égal des voix, la voix du Président de l'Association, ou de son intérimaire, est prépondérante, sauf pour une décision le concernant personnellement, auquel cas celle du Trésorier l'est ; si la fonction de Trésorier est vacante ou si la décision le concerne également, la proposition est rejetée.
+Participation minimale : une décision n'est prise que si au moins un cinquième (1/5) des Membres en règle prennent part au vote, par un suffrage exprimé ou un vote blanc ; les abstentions et les votes nuls n'en font pas partie. Lors de la seconde Assemblée, ce minimum est d'un dixième (1/10) des Membres en règle, et de trois (3) au minimum. À défaut, la décision n'est pas prise ; pour une élection, le poste reste à pourvoir.
 
-2\. Élection (Membres mandatés du Conseil d'Administration, Membres administratifs du Bureau) : sans minimum de voix favorables, à chaque tour. Tous les candidats sont soumis au même scrutin : chaque Membre en règle se prononce pour ou contre chaque candidat, sans limite du nombre de candidats qu'il soutient. Est élu tout candidat qui obtient la majorité des suffrages exprimés. S'il y a plus d'élus que de postes ou de fonctions à pourvoir, ceux-ci sont attribués par ordre décroissant de voix favorables. En cas d'égalité pour le dernier poste, un nouveau tour de scrutin est organisé entre les candidats concernés ; à défaut de départage, le candidat ayant la plus grande ancienneté de membre est élu. La voix du Président de l'Association n'est pas prépondérante.
+1\. L'approbation des comptes et des rapports, la ratification du Règlement Intérieur, l'ouverture d'une place de Membre mandaté du Conseil d'Administration prévue à l'article 14.1 et autres décisions ordinaires : sans minimum de voix favorables. En cas de partage égal des voix, la voix du Président de l'Association ou de son remplaçant est prépondérante, sauf pour une décision le concernant personnellement, auquel cas celle du Trésorier l'est ; si la fonction de Trésorier est vacante ou si la décision le concerne également, la proposition est rejetée.
 
-3\. Révocation ou annulation d'une exclusion (Membres du Conseil d'Administration, Membres administratifs du Bureau) : un nombre de voix favorables au moins égal à la moitié (1/2) de l'ensemble des Membres en règle. En cas d'égalité des voix, la révocation ou l'annulation est rejetée.
+2\. L'élection des Membres mandatés du Conseil d'Administration et des Membres administratifs du Bureau, prévue aux articles 14.1 et 15.1 : sans minimum de voix favorables, à chaque tour. Tous les candidats sont soumis au même scrutin : chaque Membre en règle se prononce pour ou contre chaque candidat, sans limite du nombre de candidats qu'il soutient, sauf sur sa propre candidature, sur laquelle il ne prend pas part au vote. Est élu tout candidat qui obtient la majorité des suffrages exprimés. S'il y a plus d'élus que de postes ou de fonctions à pourvoir, ceux-ci sont attribués par ordre décroissant de voix favorables. En cas d'égalité pour le dernier poste, un nouveau tour de scrutin est organisé entre les candidats concernés ; à défaut de départage, le candidat ayant la plus grande ancienneté de membre est élu. La voix du Président de l'Association n'est pas prépondérante.
 
-4\. Modification des Statuts : un nombre de voix favorables au moins égal à la moitié (1/2) de l'ensemble des Membres en règle. En cas d'égalité des voix, la modification est rejetée.
+3\. La révocation d'un Membre mandaté du Conseil d'Administration ou d'un Membre administratif du Bureau, prévue aux articles 14.2 et 15.3 : un nombre de voix favorables au moins égal à la moitié (1/2) de l'ensemble des Membres en règle. En cas d'égalité des voix, la révocation est rejetée.
 
-5\. Dissolution : un nombre de voix favorables au moins égal aux deux tiers (2/3) de l'ensemble des Membres en règle. En cas d'égalité des voix, la dissolution est rejetée.
+4\. L'annulation de l'exclusion d'un Membre de l'Association, d'un membre du Conseil d'Administration ou d'un Membre administratif du Bureau, prévue aux articles 8, 14.2 et 15.3 : sans minimum de voix favorables. En cas d'égalité des voix, l'annulation est rejetée.
 
-Lors de la seconde Assemblée, les minimums de voix favorables, toujours calculés sur l'ensemble des Membres en règle, sont abaissés :
+5\. La confirmation de l'exclusion d'un Membre fondateur, prévue aux articles 8 et 14.2 : sans minimum de voix favorables. En cas d'égalité des voix, l'exclusion n'est pas confirmée : elle est annulée.
 
-\- à la moitié (1/2) pour la dissolution ;
+6\. La modification des Statuts : un nombre de voix favorables au moins égal à la moitié (1/2) de l'ensemble des Membres en règle. En cas d'égalité des voix, la modification est rejetée.
 
-\- à un tiers (1/3) pour la révocation, l'annulation d'une exclusion et la modification des Statuts.
+7\. La dissolution de l'Association : un nombre de voix favorables au moins égal aux deux tiers (2/3) de l'ensemble des Membres en règle. En cas d'égalité des voix, la dissolution est rejetée.
+
+Le membre concerné par une décision de révocation, d'annulation ou de confirmation de son exclusion ne prend pas part au vote.
+
+Lors de la seconde Assemblée, le minimum de voix favorables pour la modification des Statuts, toujours calculé sur l'ensemble des Membres en règle, est abaissé à un tiers (1/3). Les autres minimums, dont ceux de la révocation et de la dissolution de l'Association, ne sont pas abaissés.
 
 
 ## Article 14 – CONSEIL D'ADMINISTRATION
@@ -234,15 +281,15 @@ Les membres du Conseil d'Administration sont :
 
 \- les Membres mandatés du Conseil d'Administration.
 
-Tous les membres du Conseil d'Administration doivent être des membres de l'Association. Les Membres temporaires ne peuvent pas être membres du Conseil d'Administration.
+Tous les membres du Conseil d'Administration doivent être des membres de l'Association. Seuls les Membres en règle peuvent être candidats au Conseil d'Administration.
 
-Les Membres permanents du Conseil d'Administration sont les Membres fondateurs de l'Association, membres de droit du Conseil d'Administration. Ils bénéficient d'un mandat à durée indéterminée, sous réserve de leur démission ou de leur exclusion.
+Les Membres permanents du Conseil d'Administration sont les Membres fondateurs de l'Association, membres de droit du Conseil d'Administration. Ils bénéficient d'un mandat à durée indéterminée, qui ne prend fin que par démission ou exclusion et ne peut pas être révoqué.
 
-Les Membres mandatés du Conseil d'Administration sont élus par l'Assemblée Générale, dans les conditions de l'article 13, sur candidature validée et soumise par le Conseil d'Administration en place, après vérification du respect des conditions d'éligibilité définies dans le Règlement Intérieur. Le Conseil d'Administration ne peut écarter une candidature que par décision motivée fondée sur ces conditions. Il détermine le nombre de postes de Membres mandatés à pourvoir. Les modalités de candidature et d'étude des candidatures par le Conseil d'Administration sont définies dans le Règlement Intérieur.
+Les Membres mandatés du Conseil d'Administration sont élus par l'Assemblée Générale, dans les conditions de l'article 13, sur candidature validée et soumise par le Conseil d'Administration en place, après vérification du respect des conditions d'éligibilité définies dans les présents Statuts et dans le Règlement Intérieur. Le Conseil d'Administration ne peut écarter une candidature que par décision motivée fondée sur ces conditions. Il détermine le nombre de postes de Membres mandatés à pourvoir et en ouvre au moins un lorsque l'Assemblée Générale le décide, dans les conditions de l'article 13 ; il ouvre alors les candidatures, et l'élection a lieu à la prochaine Assemblée Générale, ordinaire ou extraordinaire. Les modalités de candidature et d'étude des candidatures par le Conseil d'Administration sont définies dans le Règlement Intérieur.
 
 Les Membres mandatés bénéficient d'un mandat de trois (3) ans, renouvelable, à partir du lendemain de leur élection et jusqu'au même jour de leur élection trois ans plus tard, inclus, sous réserve de leur démission, de la révocation de leur mandat ou de leur exclusion.
 
-Le renouvellement des Membres mandatés a lieu lors de l'Assemblée Générale la plus proche de l'échéance de leur mandat, avant ou après celle-ci. Les Membres mandatés concernés sont réputés candidats à leur réélection, sauf s'ils ont fait connaître leur intention de ne pas se représenter, et d'autres candidatures peuvent être présentées. L'élection a lieu dans les conditions de l'article 13 ; lorsqu'elle intervient avant l'échéance, le mandat en cours prend fin à cette Assemblée Générale et le nouveau mandat prend effet le lendemain de l'élection, sans attendre le terme initial. Les conditions dans lesquelles l'intention de ne pas se représenter est exprimée sont définies dans le Règlement Intérieur.
+Le renouvellement des Membres mandatés a lieu lors de l'Assemblée Générale la plus proche de l'échéance de leur mandat, avant ou après celle-ci. Une Assemblée Générale qui se tient plus de trois (3) mois avant l'échéance ne peut pas y procéder : le renouvellement a alors lieu à l'Assemblée Générale suivante. Les Membres mandatés concernés sont réputés candidats à leur réélection, sauf s'ils ont fait connaître leur intention de ne pas se représenter, et d'autres candidatures peuvent être présentées. L'élection a lieu dans les conditions de l'article 13 ; lorsqu'elle intervient avant l'échéance, le mandat en cours prend fin à cette Assemblée Générale et le nouveau mandat prend effet le lendemain de l'élection, sans attendre le terme initial. Les conditions dans lesquelles l'intention de ne pas se représenter est exprimée sont définies dans le Règlement Intérieur.
 
 Un Président du Conseil d'Administration est élu par le Conseil d'Administration parmi ses membres, sur candidature, à bulletin secret si un membre le demande. L'élection a lieu dans les conditions de l'article 14.3. Ce rôle est attribué pour une durée d'un (1) an, renouvelable, sous réserve de la validité de son mandat de membre du Conseil d'Administration. Les autres modalités de cette élection sont précisées dans le Règlement Intérieur.
 
@@ -252,11 +299,13 @@ Le Président du Conseil d'Administration organise et arbitre les réunions du C
 
 Un membre du Conseil d'Administration peut démissionner en adressant sa demande au Président du Conseil d'Administration ou, s'il s'agit du Président, au Conseil d'Administration dans son ensemble. La démission prend effet aux conditions convenues entre le membre démissionnaire et le destinataire de la demande, ou après un délai fixé dans le Règlement Intérieur à compter de la date de la demande de démission si celle-ci a été reçue mais est restée sans réponse. Les modalités de la demande de démission et les conditions de prise d'effet de la démission sont précisées dans le Règlement Intérieur.
 
-Le mandat d'un Membre mandaté du Conseil d'Administration peut être révoqué par l'Assemblée Générale, sur décision prise selon les règles de l'article 13, l'intéressé ayant été mis en mesure de présenter ses observations. Les modalités de la procédure de révocation d'un Membre mandaté du Conseil d'Administration sont définies dans le Règlement Intérieur.
+Le mandat d'un Membre mandaté du Conseil d'Administration peut être révoqué par l'Assemblée Générale, sur décision prise selon les règles de l'article 13, l'intéressé ayant été appelé à fournir des explications écrites ou orales. Les modalités de la procédure de révocation d'un Membre mandaté du Conseil d'Administration sont définies dans le Règlement Intérieur.
 
-Un membre du Conseil d'Administration peut être exclu du Conseil d'Administration pour motif grave, incapacité ou inactivité prolongée, sur demande du Président du Conseil d'Administration ou sur motion écrite d'au moins un quart (1/4) des membres du Conseil d'Administration, et décision prise dans les conditions de l'article 14.3, l'intéressé ayant été mis en mesure de présenter sa défense. La décision d'exclusion précise le motif retenu. Les modalités de la procédure d'exclusion d'un membre du Conseil d'Administration et la définition des motifs valables sont définies dans le Règlement Intérieur. Cette exclusion ne concerne que les fonctions au Conseil d'Administration et laisse subsister la qualité de membre de l'Association.
+Un membre du Conseil d'Administration peut être exclu du Conseil d'Administration pour motif grave, incapacité ou inactivité prolongée, au sens de l'article 8, sur demande du Président du Conseil d'Administration ou sur motion écrite d'au moins un quart (1/4) des membres du Conseil d'Administration, et décision prise dans les conditions de l'article 14.3, l'intéressé ayant été appelé à fournir des explications écrites ou orales. La décision d'exclusion précise le motif retenu. Les modalités de la procédure d'exclusion d'un membre du Conseil d'Administration sont définies dans le Règlement Intérieur. L'exclusion du Conseil d'Administration ne met fin qu'à son mandat au Conseil d'Administration, et l'intéressé reste membre de l'Association.
 
-L'exclusion d'un membre du Conseil d'Administration peut être annulée par l'Assemblée Générale, devant laquelle il est responsable, sur décision prise selon les règles de l'article 13. L'annulation rétablit l'intéressé dans ses fonctions pour la durée restante de son mandat.
+L'exclusion d'un membre du Conseil d'Administration est effective immédiatement. L'Assemblée Générale, devant laquelle il est responsable, peut l'annuler selon les règles de l'article 13, après avoir appelé l'intéressé et le Conseil d'Administration à fournir des explications écrites ou orales. Elle peut être réunie en Assemblée Générale Extraordinaire à cette fin, dans les conditions de l'article 12. L'annulation rétablit l'intéressé dans ses fonctions pour la durée restante de son mandat.
+
+Par exception, l'exclusion d'un Membre permanent est soumise à l'Assemblée Générale, qui doit la confirmer. Une Assemblée Générale Extraordinaire est convoquée à cette fin dans les trente (30) jours suivant la décision, dans les conditions de l'article 12, l'intéressé et le Conseil d'Administration ayant été appelés à fournir des explications écrites ou orales. L'exclusion reste effective jusqu'à cette décision. Si l'Assemblée Générale ne la confirme pas, elle est annulée et l'intéressé est rétabli dans ses fonctions.
 
 La démission, la révocation ou l'exclusion d'un membre entraîne automatiquement la fin prématurée de son mandat et la fin de ses fonctions.
 
@@ -276,29 +325,35 @@ Lorsque le rôle de Président du Conseil d'Administration devient vacant, quell
 
 Lorsqu'un membre du Conseil d'Administration atteint la fin naturelle de son mandat, ce dernier a la possibilité d'assurer son propre intérim pour une durée de deux (2) mois maximum à partir de la fin de son mandat, pendant laquelle il conserve son droit de vote. Cette possibilité est automatiquement accordée au membre réputé candidat à sa réélection. Si le membre a fait connaître son intention de ne pas se représenter, cette possibilité est soumise à l'approbation du reste du Conseil d'Administration. À l'issue de ce délai, s'il n'a pas été réélu par l'Assemblée Générale, il cesse d'être membre du Conseil d'Administration, tout en restant réputé candidat à sa réélection, sauf s'il a fait connaître son intention de ne pas se représenter.
 
-Lorsque la démission, la révocation ou l'exclusion d'un membre fait tomber le Conseil d'Administration sous le nombre minimum de deux (2) membres, une Assemblée Générale Extraordinaire est convoquée, dans les conditions de l'article 11, afin de pourvoir aux postes vacants, sans attendre la prochaine Assemblée Générale Ordinaire. Elle se tient dans un délai de deux (2) mois à compter de la vacance. À défaut de convocation par le Président de l'Association ou son intérimaire, elle est convoquée par le Trésorier ; à défaut, par le Président du Conseil d'Administration.
+Lorsque la démission, la révocation ou l'exclusion d'un membre fait tomber le Conseil d'Administration sous le nombre minimum de deux (2) membres, une Assemblée Générale Extraordinaire est convoquée, dans les conditions de l'article 11, afin de pourvoir aux postes vacants, sans attendre la prochaine Assemblée Générale Ordinaire. Elle se tient dans un délai de deux (2) mois à compter de la vacance. À défaut de convocation par le Président de l'Association ou son remplaçant, elle est convoquée par le Trésorier ; à défaut, par le Président du Conseil d'Administration.
 
 ### 14.3 – Réunions et décisions
 
-Le Conseil d'Administration se réunit au moins une fois par an et selon les besoins de l'Association, aux conditions définies dans le Règlement Intérieur, sur convocation du Président du Conseil d'Administration ou à la demande de la moitié des membres du Conseil d'Administration. Tout seuil exprimé en fraction du nombre de membres du Conseil d'Administration est arrondi à l'entier supérieur.
+Le Conseil d'Administration se réunit au moins une fois par an et selon les besoins de l'Association, aux conditions définies dans le Règlement Intérieur, sur convocation du Président du Conseil d'Administration ou à la demande de la moitié des membres du Conseil d'Administration. Tout seuil exprimé en fraction du nombre de membres du Conseil d'Administration est arrondi à l'entier supérieur. Les membres dont les fonctions sont suspendues en application de l'article 7 ne prennent pas part aux votes et ne sont pas comptés parmi les membres du Conseil d'Administration, y compris pour le quorum et les minimums de voix favorables.
 
 Toute décision du Conseil d'Administration est prise à la majorité simple des suffrages exprimés, y compris lorsqu'un minimum de voix favorables est exigé en plus : une décision pour laquelle les voix favorables ne sont pas plus nombreuses que les voix défavorables est rejetée, même si ce minimum est atteint, sauf règle de départage prévue ci-dessous. Les abstentions, les votes blancs et les votes nuls sont dénombrés distinctement et ne sont pas comptés comme des suffrages exprimés.
 
-Quorum général : toute décision exige qu'au moins un tiers (1/3) des membres du Conseil d'Administration, arrondi à l'entier supérieur et au minimum deux, soient présents. Les membres peuvent participer aux réunions par visioconférence, et le Conseil d'Administration peut statuer par consultation écrite ou électronique, aux conditions définies dans le Règlement Intérieur. Les réunions donnent lieu à un procès-verbal. Une décision prise par consultation écrite ou électronique équivaut à une décision prise en réunion : elle est soumise aux mêmes règles de quorum, appréciées sur les membres ayant pris part à la consultation, et de majorité, et elle est actée dans un rapport équivalent au procès-verbal.
+Quorum général : le Conseil d'Administration ne délibère valablement que si au moins un tiers (1/3) de ses membres, et deux (2) au minimum, sont présents. Les membres peuvent participer aux réunions par visioconférence, et le Conseil d'Administration peut statuer par consultation écrite ou électronique, aux conditions définies dans le Règlement Intérieur. Les réunions donnent lieu à un procès-verbal. Une décision prise par consultation écrite ou électronique équivaut à une décision prise en réunion : elle est soumise aux mêmes règles de quorum, appréciées sur les membres ayant pris part à la consultation, et de majorité, et elle est actée dans un rapport équivalent au procès-verbal.
+
+Participation minimale : une décision n'est prise que si au moins un quart (1/4) des membres du Conseil d'Administration, et deux (2) au minimum, prennent part au vote, par un suffrage exprimé ou un vote blanc ; les abstentions et les votes nuls n'en font pas partie. À défaut, la décision n'est pas prise ; pour une élection, le poste reste à pourvoir.
 
 Les décisions ordinaires du Conseil d'Administration sont prises à la majorité des suffrages exprimés. En cas de partage égal des voix, la voix du Président du Conseil d'Administration est prépondérante dans les votes, sauf pour les décisions le concernant personnellement.
 
 Les élections par le Conseil d'Administration, notamment celles du Président du Conseil d'Administration et des Membres opérationnels du Bureau, se déroulent avec le quorum général et sans voix prépondérante du Président du Conseil d'Administration, dans les conditions suivantes :
 
-\- Règle générale : chaque membre se prononce pour ou contre chaque candidat, et est élu tout candidat qui obtient la majorité des suffrages exprimés. S'il y a plus d'élus que de postes à pourvoir, ceux-ci sont attribués par ordre décroissant de voix favorables. En cas d'égalité pour le dernier poste, un nouveau tour de scrutin est organisé entre les candidats concernés ; à défaut de départage, le candidat ayant la plus grande ancienneté de membre est élu ;
+\- Règle générale : chaque membre se prononce pour ou contre chaque candidat, sauf sur sa propre candidature, sur laquelle il ne prend pas part au vote, et est élu tout candidat qui obtient la majorité des suffrages exprimés. S'il y a plus d'élus que de postes à pourvoir, ceux-ci sont attribués par ordre décroissant de voix favorables. En cas d'égalité pour le dernier poste, un nouveau tour de scrutin est organisé entre les candidats concernés ; à défaut de départage, le candidat ayant la plus grande ancienneté de membre est élu ;
 
 \- Président du Conseil d'Administration : la règle générale s'applique, sauf que, si aucun candidat n'obtient la majorité des suffrages exprimés, un nouveau tour de scrutin est organisé au cours de la même réunion ; à défaut de majorité à ce nouveau tour, est élu le candidat qui obtient le plus grand nombre de voix favorables, le départage en cas d'égalité restant celui de la règle générale.
 
-Pour les décisions suivantes, le membre concerné ne prend pas part au vote et n'est pas compté parmi les membres du Conseil d'Administration, y compris pour le quorum. Ces décisions exigent un minimum de voix favorables, exprimé en nombre de membres du Conseil d'Administration, présents ou non. Ce minimum est arrondi à l'entier supérieur et ne peut en aucun cas être inférieur à deux (2) voix favorables :
+Pour les décisions suivantes, le membre concerné ne prend pas part au vote et n'est pas compté parmi les membres du Conseil d'Administration, y compris pour le quorum. Le minimum de voix favorables, lorsqu'il est exigé, est exprimé en nombre de membres du Conseil d'Administration, présents ou non. Ce minimum ne peut pas être inférieur à deux (2) voix favorables :
 
 \- L'exclusion d'un Membre de l'Association, prévue à l'article 8, ou d'un membre du Conseil d'Administration, prévue à l'article 14.2 : un nombre de voix favorables au moins égal aux deux tiers (2/3) des membres du Conseil d'Administration. En cas d'égalité des voix, l'exclusion est rejetée ;
 
-\- La révocation d'un Membre opérationnel du Bureau ou l'annulation de son exclusion, prévues à l'article 15.3 : un nombre de voix favorables au moins égal aux deux tiers (2/3) des membres du Conseil d'Administration. En cas d'égalité des voix, la révocation ou l'annulation est rejetée ;
+\- L'exclusion d'un Membre administratif du Bureau, prévue à l'article 15.3 : un nombre de voix favorables au moins égal aux deux tiers (2/3) des membres du Conseil d'Administration. En cas d'égalité des voix, l'exclusion est rejetée ;
+
+\- La révocation d'un Membre opérationnel du Bureau, prévue à l'article 15.3 : un nombre de voix favorables au moins égal aux deux tiers (2/3) des membres du Conseil d'Administration. En cas d'égalité des voix, la révocation est rejetée ;
+
+\- L'annulation de l'exclusion d'un Membre opérationnel du Bureau, prévue à l'article 15.3 : sans minimum de voix favorables. En cas d'égalité des voix, l'annulation est rejetée ;
 
 \- La destitution du Président du Conseil d'Administration, prévue à l'article 14.2 : un nombre de voix favorables au moins égal à la moitié (1/2) des membres du Conseil d'Administration. En cas d'égalité des voix, la destitution est rejetée.
 
@@ -316,7 +371,11 @@ Le Conseil d'Administration :
 
 \- contrôle l'activité du Bureau, conformément à l'article 15.5 ;
 
-\- révoque les Membres opérationnels du Bureau et peut annuler leur exclusion, conformément à l'article 15.3 ;
+\- révoque les Membres opérationnels du Bureau, conformément à l'article 15.3 ;
+
+\- exclut les Membres administratifs du Bureau pour motif grave, incapacité ou inactivité prolongée, conformément à l'article 15.3 ;
+
+\- peut annuler l'exclusion d'un Membre opérationnel du Bureau, conformément à l'article 15.3 ;
 
 \- donne son accord préalable aux actes de disposition, conformément à l'article 15.6 ;
 
@@ -345,15 +404,15 @@ Les membres du Bureau sont :
 
 \- les Membres opérationnels du Bureau.
 
-Tous les membres du Bureau doivent être des membres de l'Association. Les Membres temporaires ne peuvent pas être membres du Bureau. Les membres du Bureau peuvent cumuler leur mandat avec celui de membre du Conseil d'Administration.
+Tous les membres du Bureau doivent être des membres de l'Association. Seuls les Membres en règle, membres de l'Association depuis au moins treize (13) mois à la date de l'élection et bénévoles actifs de l'Association, peuvent être candidats au Bureau. L'appréciation du caractère actif du bénévolat relève de l'organe qui valide la candidature, selon les critères définis dans le Règlement Intérieur. Les membres du Bureau peuvent cumuler leur mandat avec celui de membre du Conseil d'Administration.
 
-Les Membres administratifs du Bureau sont élus par l'Assemblée Générale, dans les conditions de l'article 13, sur candidature et pour une ou plusieurs fonctions administratives au sein du Bureau. Les modalités de candidature sont définies dans le Règlement Intérieur.
+Les Membres administratifs du Bureau sont élus par l'Assemblée Générale, dans les conditions de l'article 13, sur candidature validée et soumise par le Conseil d'Administration en place, après vérification du respect des conditions d'éligibilité définies dans les présents Statuts et dans le Règlement Intérieur. Le Conseil d'Administration ne peut écarter une candidature que par décision motivée fondée sur ces conditions. La candidature vise une ou plusieurs fonctions administratives au sein du Bureau. Les modalités de candidature sont définies dans le Règlement Intérieur.
 
-Les Membres opérationnels du Bureau sont élus par le Conseil d'Administration, sur candidature validée et soumise par le Bureau en place, après vérification du respect des conditions d'éligibilité définies dans le Règlement Intérieur. Le Bureau ne peut écarter une candidature que par décision motivée fondée sur ces conditions. Il détermine le nombre de postes de Membres opérationnels à pourvoir. L'élection a lieu dans les conditions de l'article 14.3. Les modalités de candidature et d'étude des candidatures par le Bureau sont définies dans le Règlement Intérieur.
+Les Membres opérationnels du Bureau sont élus par le Conseil d'Administration, sur candidature validée et soumise par le Bureau en place, après vérification du respect des conditions d'éligibilité définies dans les présents Statuts et dans le Règlement Intérieur. Le Bureau ne peut écarter une candidature que par décision motivée fondée sur ces conditions. Il détermine le nombre de postes de Membres opérationnels à pourvoir et en ouvre au moins un lorsque le Conseil d'Administration le décide. L'élection a lieu dans les conditions de l'article 14.3. Les modalités de candidature et d'étude des candidatures par le Bureau sont définies dans le Règlement Intérieur.
 
 Tous les membres du Bureau bénéficient d'un mandat de deux (2) ans, renouvelable, à partir du lendemain de leur élection et jusqu'au même jour de leur élection deux ans plus tard, inclus, sous réserve de leur démission, de la révocation de leur mandat ou de leur exclusion.
 
-Le renouvellement des membres du Bureau a lieu lors de la séance la plus proche de l'échéance de leur mandat, avant ou après celle-ci, de l'Assemblée Générale pour les Membres administratifs et du Conseil d'Administration pour les Membres opérationnels. Les membres du Bureau concernés sont réputés candidats à leur réélection, sauf s'ils ont fait connaître leur intention de ne pas se représenter, et d'autres candidatures peuvent être présentées. L'élection a lieu dans les conditions de l'article 13 pour les Membres administratifs et de l'article 15.1 pour les Membres opérationnels ; lorsqu'elle intervient avant l'échéance, le mandat en cours prend fin à cette séance et le nouveau mandat prend effet le lendemain de l'élection, sans attendre le terme initial. Les conditions dans lesquelles l'intention de ne pas se représenter est exprimée sont définies dans le Règlement Intérieur.
+Le renouvellement des membres du Bureau a lieu lors de la séance la plus proche de l'échéance de leur mandat, avant ou après celle-ci, de l'Assemblée Générale pour les Membres administratifs et du Conseil d'Administration pour les Membres opérationnels. Une séance qui se tient plus de trois (3) mois avant l'échéance ne peut pas y procéder : le renouvellement a alors lieu à la séance suivante. Les membres du Bureau concernés sont réputés candidats à leur réélection, sauf s'ils ont fait connaître leur intention de ne pas se représenter, et d'autres candidatures peuvent être présentées. L'élection a lieu dans les conditions de l'article 13 pour les Membres administratifs et de l'article 15.1 pour les Membres opérationnels ; lorsqu'elle intervient avant l'échéance, le mandat en cours prend fin à cette séance et le nouveau mandat prend effet le lendemain de l'élection, sans attendre le terme initial. Les conditions dans lesquelles l'intention de ne pas se représenter est exprimée sont définies dans le Règlement Intérieur.
 
 ### 15.2 – Fonctions
 
@@ -387,15 +446,25 @@ Le Trésorier du Bureau agit également en qualité de Trésorier de l'Associati
 
 Un membre du Bureau peut démissionner en adressant sa demande au Président du Bureau ou, s'il s'agit du Président, au Bureau dans son ensemble, par l'intermédiaire du Trésorier ou du Secrétaire. La démission prend effet aux conditions convenues entre le membre démissionnaire et le destinataire de la demande, ou après un délai fixé dans le Règlement Intérieur à compter de la date de la demande de démission si celle-ci a été reçue mais est restée sans réponse. Les modalités de la demande de démission et les conditions de prise d'effet de la démission sont précisées dans le Règlement Intérieur.
 
-Le mandat d'un Membre administratif du Bureau peut être révoqué par l'Assemblée Générale, sur décision prise selon les règles de l'article 13, l'intéressé ayant été mis en mesure de présenter ses observations.
+Le mandat d'un Membre administratif du Bureau peut être révoqué par l'Assemblée Générale, sur décision prise selon les règles de l'article 13, l'intéressé ayant été appelé à fournir des explications écrites ou orales.
 
-Le mandat d'un Membre opérationnel du Bureau peut être révoqué par le Conseil d'Administration, sur décision prise dans les conditions de l'article 14.3, l'intéressé ayant été mis en mesure de présenter ses observations.
+Le mandat d'un Membre opérationnel du Bureau peut être révoqué par le Conseil d'Administration, sur décision prise dans les conditions de l'article 14.3, l'intéressé ayant été appelé à fournir des explications écrites ou orales.
 
 Les modalités de la procédure de révocation d'un membre du Bureau sont définies dans le Règlement Intérieur.
 
-Un membre du Bureau peut être exclu du Bureau pour motif grave, incapacité ou inactivité prolongée, sur demande du Président du Bureau ou sur motion écrite d'au moins un quart (1/4) des membres du Bureau, et décision prise par le Bureau dans les conditions de l'article 15.4, l'intéressé ayant été mis en mesure de présenter sa défense. La décision d'exclusion précise le motif retenu. Les modalités de la procédure d'exclusion d'un membre du Bureau et la définition des motifs valables sont définies dans le Règlement Intérieur.
+Un Membre opérationnel du Bureau peut être exclu du Bureau pour motif grave, incapacité ou inactivité prolongée, au sens de l'article 8, sur demande du Président du Bureau ou sur motion écrite d'au moins un quart (1/4) des membres du Bureau, et décision prise par le Bureau dans les conditions de l'article 15.4, l'intéressé ayant été appelé à fournir des explications écrites ou orales. La décision d'exclusion précise le motif retenu. Les modalités de la procédure d'exclusion d'un Membre opérationnel du Bureau sont définies dans le Règlement Intérieur.
 
-L'exclusion d'un membre du Bureau peut être annulée par l'organe devant lequel il est responsable : l'Assemblée Générale pour un Membre administratif, sur décision prise selon les règles de l'article 13, et le Conseil d'Administration pour un Membre opérationnel, sur décision prise dans les conditions de l'article 14.3. L'annulation rétablit l'intéressé dans ses fonctions pour la durée restante de son mandat.
+Un Membre administratif du Bureau ne peut pas être exclu par le Bureau. Il peut être exclu par le Conseil d'Administration pour motif grave, incapacité ou inactivité prolongée, au sens de l'article 8, sur demande du Président du Conseil d'Administration ou sur motion écrite d'au moins un quart (1/4) des membres du Conseil d'Administration, et décision prise par le Conseil d'Administration dans les conditions de l'article 14.3, l'intéressé ayant été appelé à fournir des explications écrites ou orales. La décision d'exclusion précise le motif retenu.
+
+L'exclusion d'un membre du Bureau ne met fin qu'à son mandat au Bureau, et l'intéressé reste membre de l'Association.
+
+L'exclusion d'un membre du Bureau est effective immédiatement.
+
+\- L'Assemblée Générale, devant laquelle un Membre administratif est responsable, peut l'annuler selon les règles de l'article 13, après avoir appelé l'intéressé et le Conseil d'Administration à fournir des explications écrites ou orales. Elle peut être réunie en Assemblée Générale Extraordinaire à cette fin, dans les conditions de l'article 12.
+
+\- Le Conseil d'Administration, devant lequel un Membre opérationnel est responsable, peut l'annuler dans les conditions de l'article 14.3, après avoir appelé l'intéressé et le Bureau à fournir des explications écrites ou orales.
+
+L'annulation rétablit l'intéressé dans ses fonctions pour la durée restante de son mandat. Pour un Membre administratif, cela met fin à l'intérim et à la vacance de sa fonction.
 
 La démission, la révocation ou l'exclusion d'un membre entraîne automatiquement la fin prématurée de son mandat et la fin de ses fonctions.
 
@@ -424,15 +493,17 @@ Les conditions de désignation du membre intérimaire sont définies dans le Rè
 
 ### 15.4 – Réunions et décisions
 
-Le Bureau se réunit au moins une fois par an et selon les besoins de l'Association, aux conditions définies dans le Règlement Intérieur, sur convocation du Président du Bureau ou à la demande de la moitié des membres du Bureau. Tout seuil exprimé en fraction du nombre de membres du Bureau est arrondi à l'entier supérieur.
+Le Bureau se réunit au moins une fois par an et selon les besoins de l'Association, aux conditions définies dans le Règlement Intérieur, sur convocation du Président du Bureau ou à la demande de la moitié des membres du Bureau. Tout seuil exprimé en fraction du nombre de membres du Bureau est arrondi à l'entier supérieur. Les membres dont les fonctions sont suspendues en application de l'article 7 ne prennent pas part aux votes et ne sont pas comptés parmi les membres du Bureau, y compris pour le quorum et les minimums de voix favorables.
 
 Toute décision du Bureau est prise à la majorité simple des suffrages exprimés, y compris lorsqu'un minimum de voix favorables est exigé en plus : une décision pour laquelle les voix favorables ne sont pas plus nombreuses que les voix défavorables est rejetée, même si ce minimum est atteint, sauf règle de départage prévue ci-dessous. Les abstentions, les votes blancs et les votes nuls sont dénombrés distinctement et ne sont pas comptés comme des suffrages exprimés.
 
-Quorum général : toute décision exige qu'au moins la moitié (1/2) des membres du Bureau, et au minimum deux, soient présents. Les membres peuvent participer aux réunions par visioconférence, et le Bureau peut statuer par consultation écrite ou électronique, aux conditions définies dans le Règlement Intérieur. Les réunions donnent lieu à un procès-verbal. Une décision prise par consultation écrite ou électronique équivaut à une décision prise en réunion : elle est soumise aux mêmes règles de quorum, appréciées sur les membres ayant pris part à la consultation, et de majorité, et elle est actée dans un rapport équivalent au procès-verbal.
+Quorum général : le Bureau ne délibère valablement que si au moins la moitié (1/2) de ses membres, et deux (2) au minimum, sont présents. Les membres peuvent participer aux réunions par visioconférence, et le Bureau peut statuer par consultation écrite ou électronique, aux conditions définies dans le Règlement Intérieur. Les réunions donnent lieu à un procès-verbal. Une décision prise par consultation écrite ou électronique équivaut à une décision prise en réunion : elle est soumise aux mêmes règles de quorum, appréciées sur les membres ayant pris part à la consultation, et de majorité, et elle est actée dans un rapport équivalent au procès-verbal.
+
+Participation minimale : une décision n'est prise que si au moins un tiers (1/3) des membres du Bureau, et deux (2) au minimum, prennent part au vote, par un suffrage exprimé ou un vote blanc ; les abstentions et les votes nuls n'en font pas partie. À défaut, la décision n'est pas prise ; pour une élection, le poste reste à pourvoir.
 
 Les décisions ordinaires du Bureau sont prises à la majorité des suffrages exprimés. En cas de partage égal des voix, la voix du Président du Bureau est prépondérante dans les votes, sauf pour les décisions le concernant personnellement.
 
-Pour l'exclusion d'un membre du Bureau, prévue à l'article 15.3, le membre concerné ne prend pas part au vote et n'est pas compté parmi les membres du Bureau, y compris pour le quorum. Cette décision exige un nombre de voix favorables au moins égal aux deux tiers (2/3) des membres du Bureau, présents ou non. Ce minimum est arrondi à l'entier supérieur et ne peut en aucun cas être inférieur à deux (2) voix favorables. En cas d'égalité des voix, l'exclusion est rejetée. Lorsque ces conditions ne peuvent pas être réunies, notamment faute d'un nombre suffisant de membres pouvant prendre part au vote, l'exclusion n'est pas prononcée.
+Pour l'exclusion d'un Membre opérationnel du Bureau, prévue à l'article 15.3, le membre concerné ne prend pas part au vote et n'est pas compté parmi les membres du Bureau, y compris pour le quorum. Le minimum de voix favorables est de deux tiers (2/3) des membres du Bureau, présents ou non. Ce minimum ne peut pas être inférieur à deux (2) voix favorables. En cas d'égalité des voix, l'exclusion est rejetée. Lorsque ces conditions ne peuvent pas être réunies, notamment faute d'un nombre suffisant de membres pouvant prendre part au vote, l'exclusion n'est pas prononcée.
 
 ### 15.5 – Responsabilités et contrôle
 
@@ -440,13 +511,21 @@ Le Bureau est responsable devant le Conseil d'Administration qui exerce un contr
 
 Le Conseil d'Administration peut, à la majorité de ses membres, convoquer une réunion extraordinaire du Conseil d'Administration et du Bureau pour discuter de l'activité du Bureau, demander des explications sur des actions du Bureau ou prendre des décisions concernant le Bureau.
 
-Les membres du Bureau qui sont également membres du Conseil d'Administration ne prennent pas part aux votes du Conseil d'Administration portant sur l'approbation de la gestion du Bureau ou sur des décisions les concernant personnellement. Si le Président du Conseil d'Administration est membre du Bureau, il laisse la présidence de séance à un autre membre du Conseil d'Administration pour ces décisions. Lorsque tous les membres du Conseil d'Administration sont concernés et qu'aucun ne peut donc prendre part au vote, la gestion du Bureau est approuvée par défaut.
+L'approbation de la gestion du Bureau est le vote par lequel le Conseil d'Administration apprécie l'action passée du Bureau : le vote annuel sur le rapport d'activité et les comptes lors de l'arrêté des comptes (article 14.4), ou tout vote sur cette action passée lors d'une réunion extraordinaire. Les membres du Bureau qui sont également membres du Conseil d'Administration ne prennent pas part à ce vote, ni à une décision les concernant personnellement ; ils votent sur toutes les autres décisions, notamment celles qui fixent des principes ou des directions pour l'avenir. Si le Président du Conseil d'Administration est membre du Bureau, il laisse la présidence de séance à un autre membre du Conseil d'Administration pour ces votes. Lorsque tous les membres du Conseil d'Administration sont concernés et qu'aucun ne peut donc prendre part au vote, ou que le minimum de participation de l'article 14.3 n'est pas atteint sur ce vote, la gestion du Bureau est approuvée par défaut.
 
 ### 15.6 – Pouvoirs
 
 Le Bureau assure la gestion courante de l'Association, dans le cadre des orientations générales arrêtées par le Conseil d'Administration et selon les modalités définies dans le Règlement Intérieur. Le Conseil d'Administration contrôle son activité a posteriori, conformément à l'article 15.5, sans pouvoir bloquer sa gestion courante. Seuls les actes de disposition sont soumis à l'accord préalable du Conseil d'Administration. Constituent notamment des actes de disposition la vente ou la cession d'un bien durable de l'Association, la souscription d'un emprunt et la conclusion d'un bail ou d'un contrat de longue durée. Le Règlement Intérieur précise la nature et les seuils des actes soumis à cet accord. Cette limite est une règle interne, sans préjudice des droits des tiers de bonne foi, et engage la responsabilité de son auteur à l'égard de l'Association.
 
-Le Président de l'Association représente l'Association dans tous les actes de la vie civile et en justice. Il peut, par écrit, déléguer une partie de ses pouvoirs à un autre membre du Bureau. En cas de vacance de la fonction de Président, l'Association est représentée, pendant la période d'intérim officiel prévue à l'article 15.3, par le Secrétaire distinct en fonction ou, à défaut, par le membre du Conseil d'Administration désigné pour l'assurer.
+Le Président de l'Association représente l'Association dans tous les actes de la vie civile et en justice. Il peut, par écrit, déléguer à tout membre du Bureau des tâches qui ne relèvent pas de la représentation de l'Association. En cas de vacance de la fonction de Président, l'Association est représentée, pendant la période d'intérim officiel prévue à l'article 15.3, par le Secrétaire distinct en fonction ou, à défaut, par le membre du Conseil d'Administration désigné pour l'assurer.
+
+Le Président est empêché lorsqu'il annonce ne pas pouvoir exercer sa fonction temporairement, lorsque ses fonctions sont suspendues en application de l'article 7, ou lorsqu'il est dans l'impossibilité de l'exercer sans avoir pu l'annoncer. Dans ce dernier cas, le Secrétaire, s'il en existe un, ou à défaut le Trésorier constate l'empêchement après avoir tenté de contacter le Président, et le Conseil d'Administration confirme. Le Conseil d'Administration ne peut pas déclarer le Président empêché dans d'autres cas.
+
+Pendant son empêchement, un délégataire exerce la représentation de l'Association, la convocation de l'Assemblée Générale et du Bureau, et la voix prépondérante du Président. Le Président le choisit parmi le Secrétaire et les membres du Conseil d'Administration, à l'exclusion de lui-même et du Trésorier. Il le désigne par écrit, à l'avance ou pendant son empêchement, et le Conseil d'Administration approuve cette désignation à la majorité des suffrages exprimés. Lorsqu'elle est faite pendant l'empêchement, elle est effective immédiatement et prend fin si le Conseil d'Administration ne l'approuve pas à sa prochaine réunion. À défaut de désignation ou d'approbation, le délégataire est désigné dans les conditions de l'intérim prévues à l'article 15.3. Le délégataire ne cumule pas les votes.
+
+Le Président reprend ses fonctions de plein droit à la fin de son empêchement, ce qui met fin à la délégation. Elle prend aussi fin par la révocation ou l'exclusion du Président, auquel cas l'intérim de l'article 15.3 s'applique.
+
+Dans les présents Statuts, le remplaçant du Président désigne son intérimaire, prévu à l'article 15.3, ou son délégataire, prévu au présent article.
 
 Le Trésorier tient la comptabilité de l'Association, effectue ou fait effectuer les opérations bancaires et prépare les comptes annuels.
 
@@ -459,7 +538,7 @@ Toutes les fonctions, y compris celles des membres du Conseil d'Administration e
 
 Le rapport financier présenté à l'assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 
-Aucun membre du Conseil d'Administration ou du Bureau ne prend part à une décision, ni au vote, dans lesquels il a un intérêt direct ou indirect, notamment le remboursement de ses propres frais ou la conclusion d'une convention avec lui-même ou l'un de ses proches. Le remboursement des frais d'un membre du Bureau est validé par un autre membre du Bureau. Aucun avantage, direct ou indirect, ne peut être consenti aux fondateurs, dirigeants ou membres de l'Association au titre de sa gestion.
+Dans l'ensemble des présents Statuts, une décision concerne personnellement un membre lorsqu'elle le vise nommément (son élection, sa révocation, son exclusion ou une mesure individuelle à son égard) ou lorsqu'il y a un intérêt direct ou indirect, notamment le remboursement de ses propres frais ou la conclusion d'une convention avec lui-même ou l'un de ses proches. Une décision de portée générale, comme le rapport d'activité, le Règlement Intérieur ou les orientations de l'Association, ne le concerne pas du seul fait qu'elle touche sa fonction ou l'organe dont il est membre. Aucun membre du Conseil d'Administration ou du Bureau ne prend part à une décision, ni au vote, qui le concerne personnellement. Le remboursement des frais d'un membre du Bureau est validé par un autre membre du Bureau. Aucun avantage, direct ou indirect, ne peut être consenti aux fondateurs, dirigeants ou membres de l'Association au titre de sa gestion.
 
 
 ## Article 17 – RÈGLEMENT INTÉRIEUR
@@ -482,7 +561,7 @@ Le Règlement Intérieur est communiqué aux membres de l'Association après son
 
 La communication des modifications du Règlement Intérieur se fait via les moyens de communication adaptés, précisés dans la version en vigueur du Règlement Intérieur.
 
-L'entrée en application d'une modification du Règlement Intérieur est suspendue si, avant son entrée en application, un quart (1/4) au moins des Membres en règle en font la demande écrite, y compris par voie électronique, au Conseil d'Administration. Le Conseil d'Administration se réunit alors pour statuer sur la demande et peut maintenir, modifier ou retirer la modification. Toute nouvelle version est communiquée aux membres et ouvre à nouveau le délai d'entrée en application et le droit de suspension prévus ci-dessus.
+L'entrée en application d'une modification du Règlement Intérieur est suspendue si, avant son entrée en application, un quart (1/4) au moins des Membres en règle en font la demande écrite, y compris par voie électronique, au Conseil d'Administration. Le Conseil d'Administration se réunit alors pour statuer sur la demande et peut maintenir, modifier ou retirer la modification. Toute nouvelle version est communiquée aux membres et ouvre à nouveau le délai d'entrée en application et le droit de suspension prévus ci-dessus. Pour mettre fin à un blocage, le Conseil d'Administration peut convoquer une Assemblée Générale Extraordinaire afin de faire ratifier le texte : le texte ratifié s'applique dès sa ratification et ne peut plus être suspendu.
 
 
 ## Article 18 – DISSOLUTION
@@ -507,7 +586,7 @@ Lors d'une modification des Statuts, les mandats en cours à la date d'adoption 
 
 Les membres dont le mandat est déjà échu à la date d'adoption conservent leurs fonctions jusqu'aux élections de l'Assemblée Générale d'adoption ou, à défaut, de la première Assemblée Générale Ordinaire suivante, sans application des délais d'intérim des articles 14.2 et 15.3. Ils sont réputés candidats à leur réélection lors de ces élections, sauf s'ils font connaître leur intention de ne pas se représenter avant l'ouverture du scrutin.
 
-Le Règlement Intérieur en vigueur reste applicable, en ce qu'il ne contredit pas les Statuts adoptés, jusqu'à son adaptation par le Conseil d'Administration.
+Lorsqu'une modification des Statuts rend nécessaire d'adapter le Règlement Intérieur, le Conseil d'Administration établit le Règlement Intérieur adapté et le communique aux membres avec la convocation de l'Assemblée Générale appelée à adopter la modification des Statuts. Cette Assemblée soumet le Règlement Intérieur adapté à ratification après le vote de la modification des Statuts et avant les éventuelles élections, et il s'applique dès l'adoption de la modification des Statuts, par dérogation à l'article 17. À défaut, le Règlement Intérieur en vigueur reste applicable, en ce qu'il ne contredit pas les Statuts, et le Conseil d'Administration établit le Règlement Intérieur adapté dans un délai d'un (1) mois à compter de l'adoption de la modification des Statuts, dans les conditions de l'article 17.
 
 ---
 
