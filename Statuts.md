@@ -194,6 +194,8 @@ Chaque Membre en règle absent peut se faire représenter par un autre Membre en
 
 Un membre porteur de procuration ne peut pas représenter plus d'un (1) membre absent à la fois lors d'une Assemblée Générale. Un membre porteur de la procuration d'un autre membre absent dispose alors de deux voix lors des votes : la sienne et celle du membre absent qu'il représente. Si le membre représenté est finalement présent à l'Assemblée Générale, il récupère son droit de vote et le membre porteur de procuration perd sa voix supplémentaire.
 
+Le porteur de procuration ne peut pas utiliser la voix du membre qu'il représente sur un point qui concerne personnellement le porteur ou le membre représenté, au sens de l'article 16. Il conserve sa propre voix, sauf sur un point qui le concerne personnellement. La voix du membre représenté n'est alors pas exprimée.
+
 Les décisions des Assemblées Générales s'imposent à tous les membres, y compris absents et représentés.
 
 
@@ -246,6 +248,8 @@ Les règles ci-dessous s'appliquent à chaque type de décision, quelle que soit
 
 Les membres présents ou représentés comprennent ceux qui participent à distance dans les conditions de l'article 11. Les Membres en règle sont comptés à la date de l'Assemblée. Les membres représentés par procuration sont comptés comme présents pour le quorum, et leurs voix, exprimées par leur porteur de procuration, comptent dans les suffrages exprimés et dans les minimums de voix favorables. Tout seuil exprimé en fraction du nombre de Membres en règle est arrondi à l'entier supérieur.
 
+Lorsque la décision porte sur la révocation d'un membre, sur l'annulation de l'exclusion d'un membre ou sur la confirmation de l'exclusion d'un Membre fondateur, le membre concerné ne prend pas part au vote et n'est pas compté parmi les Membres en règle pour la participation minimale et tout seuil exprimé en fraction de l'ensemble des Membres en règle. Il reste compté pour le quorum général.
+
 Quorum général : l'Assemblée Générale ne délibère valablement que si au moins un quart (1/4) des Membres en règle sont présents ou représentés. Si ce quorum n'est pas atteint, une seconde Assemblée est convoquée dans les mêmes formes que la première, notamment quant au préavis prévu à l'article 11, et se tient au plus tard quarante-cinq (45) jours après la première ; elle délibère valablement sur les mêmes points quel que soit le nombre de membres présents ou représentés.
 
 Participation minimale : une décision n'est prise que si au moins un cinquième (1/5) des Membres en règle prennent part au vote, par un suffrage exprimé ou un vote blanc ; les abstentions et les votes nuls n'en font pas partie. Lors de la seconde Assemblée, ce minimum est d'un dixième (1/10) des Membres en règle, et de trois (3) au minimum. À défaut, la décision n'est pas prise ; pour une élection, le poste reste à pourvoir.
@@ -263,8 +267,6 @@ Participation minimale : une décision n'est prise que si au moins un cinquième
 6\. La modification des Statuts : un nombre de voix favorables au moins égal à la moitié (1/2) de l'ensemble des Membres en règle. En cas d'égalité des voix, la modification est rejetée.
 
 7\. La dissolution de l'Association : un nombre de voix favorables au moins égal aux deux tiers (2/3) de l'ensemble des Membres en règle. En cas d'égalité des voix, la dissolution est rejetée.
-
-Le membre concerné par une décision de révocation, d'annulation ou de confirmation de son exclusion ne prend pas part au vote.
 
 Lors de la seconde Assemblée, le minimum de voix favorables pour la modification des Statuts, toujours calculé sur l'ensemble des Membres en règle, est abaissé à un tiers (1/3). Les autres minimums, dont ceux de la révocation et de la dissolution de l'Association, ne sont pas abaissés.
 
@@ -337,7 +339,7 @@ Le Conseil d'Administration se réunit au moins une fois par an et selon les bes
 
 Toute décision du Conseil d'Administration est prise à la majorité simple des suffrages exprimés, y compris lorsqu'un minimum de voix favorables est exigé en plus : une décision pour laquelle les voix favorables ne sont pas plus nombreuses que les voix défavorables est rejetée, même si ce minimum est atteint, sauf règle de départage prévue ci-dessous. Les abstentions, les votes blancs et les votes nuls sont dénombrés distinctement et ne sont pas comptés comme des suffrages exprimés.
 
-Quorum général : le Conseil d'Administration ne délibère valablement que si au moins un tiers (1/3) de ses membres, et deux (2) au minimum, sont présents. Les membres peuvent participer aux réunions par visioconférence, et le Conseil d'Administration peut statuer par consultation écrite ou électronique, aux conditions définies dans le Règlement Intérieur. Les réunions donnent lieu à un procès-verbal. Une décision prise par consultation écrite ou électronique équivaut à une décision prise en réunion : elle est soumise aux mêmes règles de quorum, appréciées sur les membres ayant pris part à la consultation, et de majorité, et elle est actée dans un rapport équivalent au procès-verbal.
+Quorum général : le Conseil d'Administration ne délibère valablement que si au moins un tiers (1/3) de ses membres, et deux (2) au minimum, sont présents. Les membres peuvent participer aux réunions par visioconférence, et le Conseil d'Administration peut statuer par consultation écrite ou électronique, aux conditions définies dans le Règlement Intérieur. Le vote par procuration n'est pas admis au Conseil d'Administration. Les réunions donnent lieu à un procès-verbal. Une décision prise par consultation écrite ou électronique équivaut à une décision prise en réunion : elle est soumise aux mêmes règles de quorum, appréciées sur les membres ayant pris part à la consultation, et de majorité, et elle est actée dans un rapport équivalent au procès-verbal.
 
 Participation minimale : une décision n'est prise que si au moins un quart (1/4) des membres du Conseil d'Administration, et deux (2) au minimum, prennent part au vote, par un suffrage exprimé ou un vote blanc ; les abstentions et les votes nuls n'en font pas partie. À défaut, la décision n'est pas prise ; pour une élection, le poste reste à pourvoir.
 
@@ -503,7 +505,7 @@ Le Bureau se réunit au moins une fois par an et selon les besoins de l'Associat
 
 Toute décision du Bureau est prise à la majorité simple des suffrages exprimés, y compris lorsqu'un minimum de voix favorables est exigé en plus : une décision pour laquelle les voix favorables ne sont pas plus nombreuses que les voix défavorables est rejetée, même si ce minimum est atteint, sauf règle de départage prévue ci-dessous. Les abstentions, les votes blancs et les votes nuls sont dénombrés distinctement et ne sont pas comptés comme des suffrages exprimés.
 
-Quorum général : le Bureau ne délibère valablement que si au moins la moitié (1/2) de ses membres, et deux (2) au minimum, sont présents. Les membres peuvent participer aux réunions par visioconférence, et le Bureau peut statuer par consultation écrite ou électronique, aux conditions définies dans le Règlement Intérieur. Les réunions donnent lieu à un procès-verbal. Une décision prise par consultation écrite ou électronique équivaut à une décision prise en réunion : elle est soumise aux mêmes règles de quorum, appréciées sur les membres ayant pris part à la consultation, et de majorité, et elle est actée dans un rapport équivalent au procès-verbal.
+Quorum général : le Bureau ne délibère valablement que si au moins la moitié (1/2) de ses membres, et deux (2) au minimum, sont présents. Les membres peuvent participer aux réunions par visioconférence, et le Bureau peut statuer par consultation écrite ou électronique, aux conditions définies dans le Règlement Intérieur. Le vote par procuration n'est pas admis au Bureau. Les réunions donnent lieu à un procès-verbal. Une décision prise par consultation écrite ou électronique équivaut à une décision prise en réunion : elle est soumise aux mêmes règles de quorum, appréciées sur les membres ayant pris part à la consultation, et de majorité, et elle est actée dans un rapport équivalent au procès-verbal.
 
 Participation minimale : une décision n'est prise que si au moins un tiers (1/3) des membres du Bureau, et deux (2) au minimum, prennent part au vote, par un suffrage exprimé ou un vote blanc ; les abstentions et les votes nuls n'en font pas partie. À défaut, la décision n'est pas prise ; pour une élection, le poste reste à pourvoir.
 
@@ -546,7 +548,7 @@ Toutes les fonctions, y compris celles des membres du Conseil d'Administration e
 
 Le rapport financier présenté à l'assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 
-Dans l'ensemble des présents Statuts, une décision concerne personnellement un membre lorsqu'elle le vise nommément (son élection, sa révocation, son exclusion ou une mesure individuelle à son égard) ou lorsqu'il y a un intérêt direct ou indirect, notamment le remboursement de ses propres frais ou la conclusion d'une convention avec lui-même ou l'un de ses proches. Une décision de portée générale, comme le rapport d'activité, le Règlement Intérieur ou les orientations de l'Association, ne le concerne pas du seul fait qu'elle touche sa fonction ou l'organe dont il est membre. Aucun membre du Conseil d'Administration ou du Bureau ne prend part à une décision, ni au vote, qui le concerne personnellement. Le remboursement des frais d'un membre du Bureau est validé par un autre membre du Bureau. Aucun avantage, direct ou indirect, ne peut être consenti aux fondateurs, dirigeants ou membres de l'Association au titre de sa gestion.
+Dans l'ensemble des présents Statuts, une décision concerne personnellement un membre lorsqu'elle le vise nommément (son élection, sa révocation, son exclusion ou une mesure individuelle à son égard) ou lorsqu'il y a un intérêt direct ou indirect, notamment le remboursement de ses propres frais ou la conclusion d'une convention avec lui-même ou l'un de ses proches. Une décision de portée générale, comme le rapport d'activité, le Règlement Intérieur ou les orientations de l'Association, ne le concerne pas du seul fait qu'elle touche sa fonction ou l'organe dont il est membre. Aucun membre ne prend part à une décision, ni au vote, qui le concerne personnellement. Le remboursement des frais d'un membre du Bureau est validé par un autre membre du Bureau. Aucun avantage, direct ou indirect, ne peut être consenti aux fondateurs, dirigeants ou membres de l'Association au titre de sa gestion.
 
 
 ## Article 17 – RÈGLEMENT INTÉRIEUR
